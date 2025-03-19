@@ -10,7 +10,7 @@
 
 
 ## Business Requirements
-* Describe your business requirements
+* Describe your business requirements. Get the requirements
 
 
 ## Hypothesis and how to validate?
