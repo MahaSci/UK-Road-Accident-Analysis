@@ -14,9 +14,11 @@
 
 
 ## Hypothesis and how to validate?
-1) Accidents are more frequent during rush hours and in poor weather conditions.
-2) Multi-vehicle accidents lead to a higher number of casualties.
-3) Accidents in rural areas are more severe than urban.
+1) Accidents are more frequent during Winter periods 
+2) Accidents are more frequent during non-dry weather conditions.
+### (I suggest changing 2 to non-dry accidents have a higher percentage of severe/fatal injuries, or drop it althougher)
+3) Multi-vehicle accidents lead to a higher number of casualties.
+4) Accidents in rural areas are more severe than urban.
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
