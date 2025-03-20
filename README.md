@@ -14,7 +14,9 @@
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+1) Accidents are more frequent during rush hours and in poor weather conditions.
+2) Multi-vehicle accidents lead to a higher number of casualties.
+3) Accidents in rural areas are more severe than urban.
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
