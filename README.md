@@ -1,6 +1,5 @@
 # UK Road Accident Analysis 
 
-**Project: UK_Road_Accident_Analysis** 
 The objective of this project is to analyse road accidents in Birmingham and its surrounding areas and Coventry with its surrounding areas as well.
 The objectives above will be achieved by the following activities (summarised - ETL, EDA, Visualisation, Dashboarding and Prediction analysis)
 * Fetch data from Kaggle and save it in a folder.
@@ -89,7 +88,7 @@ The objectives above will be achieved by the following activities (summarised - 
 ## Machine Learning
 * Data Preprocessing: Load, clean, and encode the dataset; define the target variable (Accident_Severity).
 
-* Modeling: Use multinomial logistic regression with a preprocessing pipeline.
+* Modeling: Use multinomial logistic regression, Random Forest, XGBoost models with a preprocessing pipeline.
 
 * Training & Evaluation: Train the model, make predictions, and assess performance using precision, recall, and F1-score.
 
