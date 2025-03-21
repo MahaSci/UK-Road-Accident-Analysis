@@ -1,17 +1,54 @@
 # UK_Road_Accident_Analysis
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**Project: UK_Road_Accident_Analysis** 
+The objective of this project is to analyse road accidents in Birmingham and its surrounding areas and Coventry with its surrounding areas as well.
+The objectives above will be achieved by the following activities (summarised - ETL, EDA, Visualisation, Dashboarding and Prediction analysis)
+* Fetch data from Kaggle and save it in a folder.
+* Preprocess the data.
+* Clean the data using different methods.
+* Perform Exploratory Data Analysis (EDA) for data distribution.
+* Create various charts and graphs to gain insights to the data.
+* Create and understand correlations of different variables of the data set.
+* Generate visualisations of different variables using different libraries in Python.
+* Use correlation heat maps to determine correlations to prove trends on variables.
+* Use Tableau and Power Bi for Dashboarding.
+* Use Logistics Regression for predictive analysis
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
-
+* The data set contains 13 columns of variables with 31511 rows. The variables are as follows
+* Accident_Severity	
+* Accident Date	
+* Latitude	
+* Light_Conditions	
+* District Area	
+* Longitude	
+* Number_of_Casualties	
+* Number_of_Vehicles	
+* Road_Surface_Conditions	
+* Road_Type	
+* Urban_or_Rural_Area	
+* Vehicle_Type
 
 ## Business Requirements
-* Describe your business requirements. Get the requirements
 
+* Identify accident-prone areas to aid in infrastructure improvement.
+
+* Analyse causes and patterns of accidents to support policy recommendations.
+
+* Evaluate the impact of road safety measures over time.
+
+* Provide data-driven insights for law enforcement, city planners, and policymakers.
+
+* Predict future accident trends using historical data and machine learning models.
+
+* Obtain historical accident data from government agencies, police reports, and transport authorities.
+
+* Collect data points including date, time, location, road type, weather conditions, accident severity, vehicle types, and driver details (age, gender, license type, etc.).
+
+* Integrate GIS (Geographical Information Systems) for spatial analysis.
 
 ## Hypothesis and how to validate?
 1) Accidents are more frequent during Winter periods 
