@@ -1,4 +1,4 @@
-# UK_Road_Accident_Analysis
+# UK Road Accident Analysis 
 
 **Project: UK_Road_Accident_Analysis** 
 The objective of this project is to analyse road accidents in Birmingham and its surrounding areas and Coventry with its surrounding areas as well.
