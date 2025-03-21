@@ -55,7 +55,7 @@ The objectives above will be achieved by the following activities (summarised - 
 ### (I suggest changing 2 to non-dry accidents have a higher percentage of severe/fatal injuries, or drop it althougher)
 3) Multi-vehicle accidents lead to a higher number of casualties.
 4) Accidents in rural areas are more severe than urban.
-5) Accident severity is dependent on light conditions.
+5) Accident severity is dependent on light conditions. [view](jupyter_notebooks/06_Hypothesis_Testing_Categorical.ipynb)
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
@@ -112,6 +112,8 @@ The objectives above will be achieved by the following activities (summarised - 
 * Did you recognise gaps in your knowledge, and how did you address them?
 * If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
 
+1. Due to the high class imbalance in the target variable 'Accident_Severity', the model was biased towards the majority class. We attempted to use SMOTE, but further investigation into other resampling techniques is needed
+
 ## Development Roadmap
 * What challenges did you face, and what strategies were used to overcome these challenges?
 * What new skills or tools do you plan to learn next based on your project experience? 
@@ -121,7 +123,6 @@ The objectives above will be achieved by the following activities (summarised - 
 
 
 ## Credits 
-
 * In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 * You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
@@ -140,5 +141,3 @@ The objectives above will be achieved by the following activities (summarised - 
 
 ## Acknowledgements (optional)
 * Thank the people who provided support through this project.
-
-### Test
