@@ -56,6 +56,7 @@ The objectives above will be achieved by the following activities (summarised - 
 ### (I suggest changing 2 to non-dry accidents have a higher percentage of severe/fatal injuries, or drop it althougher)
 3) Multi-vehicle accidents lead to a higher number of casualties.
 4) Accidents in rural areas are more severe than urban.
+5) Accident severity is dependent on light conditions.
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
@@ -72,14 +73,31 @@ The objectives above will be achieved by the following activities (summarised - 
 * How did you use generative AI tools to help with ideation, design thinking and code optimisation?
 
 ## Ethical considerations
-* Were there any data privacy, bias or fairness issues with the data?
-* How did you overcome any legal or societal issues?
+- Data Privacy: The UK road accident dataset is anonymised, ensuring compliance with GDPR by removing personal identifiers like driver names and exact locations.
+
+- Bias & Fairness:
+    - Underreporting Bias: Minor accidents may be less frequently recorded.
+    - Geographic Bias: More data from urban areas may lead to underrepresentation of rural accidents.
+    - Class Imbalance: Fewer serious and fatal accidents compared to slight accidents.
+
+
 
 ## Dashboard Design
 * List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
 * Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project you were confident you would use a given plot to display an insight but subsequently you used another plot type).
 * How were data insights communicated to technical and non-technical audiences?
 * Explain how the dashboard was designed to communicate complex data insights to different audiences. 
+
+## Machine Learning
+* Data Preprocessing: Load, clean, and encode the dataset; define the target variable (Accident_Severity).
+
+* Modeling: Use multinomial logistic regression with a preprocessing pipeline.
+
+* Training & Evaluation: Train the model, make predictions, and assess performance using precision, recall, and F1-score.
+
+* Challenges & Improvements: Address class imbalance using SMOTE.
+
+* SMOTE Implementation: Apply SMOTE and re-train the model for better results.
 
 ## Unfixed Bugs
 * Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
