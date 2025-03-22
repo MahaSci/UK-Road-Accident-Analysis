@@ -106,3 +106,51 @@ severity_fig = px.bar(
 )
 
 st.plotly_chart(severity_fig)
+
+# -- temporal charts --
+
+# vis 3: Create line chart for accident over time (monthly)
+st.header(f"3. Monthly Accident Trend in {selected_district} ({selected_year})")
+
+# Aggregate accidents by month
+monthly_trend = final_filtered_df.groupby(final_filtered_df['Accident Date'].dt.month).size().reset_index(name='Count')
+monthly_trend.columns = ['Month', 'Count']
+
+# Define month labels manually
+month_labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Noc', 'Dec']
+monthly_trend['Month_Label'] = monthly_trend['Month'].apply(lambda x: month_labels[x - 1])  # Convert 1-12 to JFMAMJJASOND
+
+# Create the line chart
+monthly_fig = px.line(
+    monthly_trend, 
+    x='Month_Label', 
+    y='Count', 
+    markers=True,
+    text='Count',
+    labels={'Month_Label': 'Month', 'Count': 'Number of Accidents'}
+)
+
+# Ensure proper ordering of months
+monthly_fig.update_xaxes(categoryorder='array', categoryarray=month_labels)
+
+# Simplify hover tooltip (only show count)
+monthly_fig.update_traces(hovertemplate='Accidents: %{y}', textposition='top center', textfont_size=14)
+
+st.plotly_chart(monthly_fig)
+
+# vis 4: Create bar chart of accident severity by day of week
+
+# -- distribution charts --
+
+# vis 5: urban vs rural accidents distribution
+
+# vis 6: Create bar chart of vehicle types involved in accidents in year x
+
+# vis 7: Create multi bar chart of severity vs light conditions
+
+# vis 8: Create multi bar chart of severity vs road surface conditions
+
+
+
+
+
