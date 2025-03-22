@@ -57,13 +57,12 @@ The objectives above will be achieved by the following activities (summarised - 
 * Integrate GIS (Geographical Information Systems) for spatial analysis.
 
 ## Hypothesis and how to validate?
-1) Accidents are more frequent during Winter periods. (Dispproved)[view](jupyter_notebooks/07_Hypothesis Testing - Temporal Data.ipynb) 
-2) Accidents are more frequent during non-dry weather conditions.[view](jupyter_notebooks/04_EDA_Advanced .ipynb) ([view](jupyter_notebooks/03_EDA_Basic.ipynb)
+1) Accidents are more frequent during Winter periods: [view](jupyter_notebooks/08_Additional_Hypothesis_Testing.ipynb) 
+2) Accidents are more frequent during non-dry weather conditions. [view](jupyter_notebooks/04_EDA_Advanced.ipynb)
 3) Multi-vehicle accidents lead to a higher number of casualties.[view](jupyter_notebooks/03_EDA_Basic.ipynb)
-4) Accidents in rural areas are more severe than urban.[view](jupyter_notebooks/05_Hypothesis Testing - Numerical Variables.ipynb)
+4) Accidents in rural areas are more severe than urban. [view](jupyter_notebooks/05_Hypothesis_Testing_Numerical_Variables.ipynb)
 5) Accident severity is dependent on light conditions. [view](jupyter_notebooks/06_Hypothesis_Testing_Categorical.ipynb)
 
-[test](<jupyter_notebooks/05_Hypothesis Testing - Numerical Variables.ipynb>)
 
 ## Project Plan
 The project plan was executed by the following process
