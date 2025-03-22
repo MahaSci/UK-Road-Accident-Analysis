@@ -19,19 +19,34 @@ st.set_page_config(layout="wide")
 st.title("Traffic Accident Dashboard")
 st.subheader("This dashboard shows key trends and patterns in traffic accidents across districts, helping to identify areas for improvement and safety measures.")
 
-# District Filter (Dropdown Selectbox)
-districts = sorted(df['District Area'].unique())
+# District Filter (Dropdown Selectbox) - Include "All Districts" option
+districts = ["All Districts"] + sorted(df['District Area'].unique().tolist())
 selected_district = st.selectbox("Select District:", districts)
-filtered_df = df[df['District Area'] == selected_district]
+
+# Filter data based on selected district (or show all if "All Districts" is selected)
+if selected_district == "All Districts":
+    filtered_df = df
+else:
+    filtered_df = df[df['District Area'] == selected_district]
+
+# Year Filter (Dropdown Selectbox) - Include "All Years" option
+years = ["All Years"] + sorted(filtered_df['Year'].unique().tolist())
+selected_year = st.selectbox("Select Year:", years)
+
+# Filter data based on selected year (or show all if "All Years" is selected)
+if selected_year == "All Years":
+    final_filtered_df = filtered_df
+else:
+    final_filtered_df = filtered_df[filtered_df['Year'] == int(selected_year)]
 
 # KPIs
-st.header(f"2. Key Metrics for {selected_district}")
+st.header(f"2. Key Metrics for {selected_district} ({selected_year})")
 kpi_col1, kpi_col2, kpi_col3, kpi_col4 = st.columns(4)
 
-total_accidents = len(filtered_df)
-slight_accidents = len(filtered_df[filtered_df['Accident_Severity'] == 'Slight'])
-serious_accidents = len(filtered_df[filtered_df['Accident_Severity'] == 'Serious'])
-fatal_accidents = len(filtered_df[filtered_df['Accident_Severity'] == 'Fatal'])
+total_accidents = len(final_filtered_df)
+slight_accidents = len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Slight'])
+serious_accidents = len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Serious'])
+fatal_accidents = len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Fatal'])
 
 with kpi_col1:
     st.metric("Total Accidents", total_accidents)
@@ -42,13 +57,16 @@ with kpi_col3:
 with kpi_col4:
     st.metric("Fatal Accidents", fatal_accidents)
 
-st.header(f"3. Accident Locations ({selected_district})")
+st.header(f"3. Accident Locations in {selected_district} ({selected_year})")
+st.markdown("**How to Use:** Zoom with scroll/trackpad or settings (top right), click legend circles to filter by severity, use dropdowns for district & year, and hover for casualties & vehicles.")
+
 
 # Define marker size based on number of casualties (scaling factor added for better visibility)
-filtered_df['marker_size'] = filtered_df['Number_of_Casualties'] * 5
+final_filtered_df['marker_size'] = final_filtered_df['Number_of_Casualties'] * 5
 
+# Create map figure
 map_fig = px.scatter_mapbox(
-    filtered_df,
+    final_filtered_df,
     lat='Latitude',
     lon='Longitude',
     color='Accident_Severity',
@@ -58,11 +76,12 @@ map_fig = px.scatter_mapbox(
     zoom=10,
     labels={'Accident_Severity': 'Severity'},
     hover_data={
-        'Latitude': True,
-        'Longitude': True,
         'Accident_Severity': True,
         'Number_of_Casualties': True,
-        'Number_of_Vehicles': True
+        'Number_of_Vehicles': True,
+        'Latitude': True,
+        'Longitude': True,
+        'marker_size': False
     }
 )
 
