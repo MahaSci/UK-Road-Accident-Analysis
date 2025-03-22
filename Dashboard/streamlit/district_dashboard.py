@@ -46,6 +46,8 @@ kpi_col4.metric("Fatal Accidents", len(final_filtered_df[final_filtered_df['Acci
 
 # Map Visualization
 st.subheader(f"Accident Locations in {selected_district} ({selected_year})")
+st.markdown("**To filter by severity, click on the legend circles on the right-hand side.**")
+
 final_filtered_df['marker_size'] = final_filtered_df['Number_of_Casualties'] * 5
 map_fig = px.scatter_mapbox(
     final_filtered_df, lat='Latitude', lon='Longitude', color='Accident_Severity',
