@@ -57,6 +57,8 @@ The objectives above will be achieved by the following activities (summarised - 
 4) Accidents in rural areas are more severe than urban. [view](jupyter_notebooks/05_Hypothesis_Testing_Numerical_Variables.ipynb)
 5) Accident severity is dependent on light conditions. [view](jupyter_notebooks/06_Hypothesis_Testing_Categorical.ipynb)
 
+[test](<jupyter_notebooks/05_Hypothesis Testing - Numerical Variables.ipynb>)
+
 ## Project Plan
 The project plan was executed by the following process
 * Kanban planning: The kanban project planning is used to plan for tasks and tracking of tasks as the project progresses.
