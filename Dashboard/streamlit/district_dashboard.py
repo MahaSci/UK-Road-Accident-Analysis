@@ -22,9 +22,9 @@ df['Vehicle_Category'] = df['Vehicle_Type'].map(vehicle_categories)
 
 # Streamlit App
 st.set_page_config(layout="wide")
-st.title("Traffic Accident Dashboard")
+st.title("Road Accident Dashboard")
 
-st.markdown("This dashboard shows key trends and patterns district-wise in traffic accidents, helping to identify areas for improvement and safety measures in Birmingham and surrounding areas.")
+st.markdown("This dashboard shows key trends and patterns district-wise in road accidents, helping to identify areas for improvement and safety measures in Birmingham and surrounding areas.")
 st.markdown("Created as part of a group project: [Project Repository](https://github.com/MahaSci/UK-Road-Accident-Analysis)")
 st.sidebar.header("Filters")
 
