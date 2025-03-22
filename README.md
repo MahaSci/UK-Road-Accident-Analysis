@@ -15,6 +15,12 @@ The objectives above will be achieved by the following activities (summarised - 
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
+## Links to Deployed Dashboards
+
+* [Tableau](https://public.tableau.com/app/profile/julian.colling/viz/Birmingham_Area_Accidents_Dashboard/RoadAccidentDashboard)
+
+* [Streamlit](https://uk-road-accident-analysis-dashboard.streamlit.app/)
+
 
 ## Dataset Content
 * The data set contains 13 columns of variables with 31511 rows. The variables are as follows
@@ -52,7 +58,7 @@ The objectives above will be achieved by the following activities (summarised - 
 
 ## Hypothesis and how to validate?
 1) Accidents are more frequent during Winter periods: [view](jupyter_notebooks/08_Additional_Hypothesis_Testing.ipynb) 
-2) Accidents are more frequent during non-dry weather conditions. [view](jupyter_notebooks/04_EDA_Advanced.ipynb)
+2) Accidents are more frequent during non-dry weather conditions. [view](jupyter_notebooks/04_EDA_Advanced .ipynb)
 3) Multi-vehicle accidents lead to a higher number of casualties.[view](jupyter_notebooks/03_EDA_Basic.ipynb)
 4) Accidents in rural areas are more severe than urban. [view](jupyter_notebooks/05_Hypothesis_Testing_Numerical_Variables.ipynb)
 5) Accident severity is dependent on light conditions. [view](jupyter_notebooks/06_Hypothesis_Testing_Categorical.ipynb)
