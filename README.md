@@ -1,7 +1,7 @@
 # UK Road Accident Analysis 
 
 The objective of this project is to analyse road accidents in Birmingham and its surrounding areas and Coventry with its surrounding areas as well.
-The objectives above will be achieved by the following activities (summarised - ETL, EDA, Visualisation, Dashboarding and Prediction analysis)
+The objectives above will be achieved by the following activities (summarised - ETL, EDA, Visualisation, Dashboarding and Prediction analysis) detailed below.
 * Fetch data from Kaggle and save it in a folder.
 * Preprocess the data.
 * Clean the data using different methods.
@@ -10,7 +10,7 @@ The objectives above will be achieved by the following activities (summarised - 
 * Create and understand correlations of different variables of the data set.
 * Generate visualisations of different variables using different libraries in Python.
 * Use correlation heat maps to determine correlations to prove trends on variables.
-* Use Tableau and Power Bi for Dashboarding.
+* Use Tableau, Streamlit and Power Bi for Dashboarding.
 * Use Logistics Regression for predictive analysis
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
@@ -30,6 +30,7 @@ The objectives above will be achieved by the following activities (summarised - 
 * Road_Type	
 * Urban_or_Rural_Area	
 * Vehicle_Type
+* The origional data set was found in Kaggle: https://www.kaggle.com/datasets/nezukokamaado/road-accident-casualties-dataset
 
 ## Business Requirements
 
@@ -50,17 +51,23 @@ The objectives above will be achieved by the following activities (summarised - 
 * Integrate GIS (Geographical Information Systems) for spatial analysis.
 
 ## Hypothesis and how to validate?
-1) Accidents are more frequent during Winter periods 
-2) Accidents are more frequent during non-dry weather conditions.
-### (I suggest changing 2 to non-dry accidents have a higher percentage of severe/fatal injuries, or drop it althougher)
-3) Multi-vehicle accidents lead to a higher number of casualties.
-4) Accidents in rural areas are more severe than urban.
+1) Accidents are more frequent during Winter periods. (Dispproved)[view](jupyter_notebooks/07_Hypothesis Testing - Temporal Data.ipynb) 
+2) Accidents are more frequent during non-dry weather conditions.[view](jupyter_notebooks/04_EDA_Advanced .ipynb) ([view](jupyter_notebooks/03_EDA_Basic.ipynb)
+3) Multi-vehicle accidents lead to a higher number of casualties.[view](jupyter_notebooks/03_EDA_Basic.ipynb)
+4) Accidents in rural areas are more severe than urban.[view](jupyter_notebooks/05_Hypothesis Testing - Numerical Variables.ipynb)
 5) Accident severity is dependent on light conditions. [view](jupyter_notebooks/06_Hypothesis_Testing_Categorical.ipynb)
 
 ## Project Plan
-* Outline the high-level steps taken for the analysis.
-* How was the data managed throughout the collection, processing, analysis and interpretation steps?
-* Why did you choose the research methodologies you used?
+The project plan was executed by the following process
+* Kanban planning: The kanban project planning is used to plan for tasks and tracking of tasks as the project progresses.
+* Data Collection: Load the dataset from the Kaggle.
+* Save the file in the folder in the directory
+* Data Cleaning: Handle missing values, check duplicates, and standardise formats.Processing, analysis and interpretation of data, some of the methods used are like df.info(), df.isnull().sum().
+* Data Transformation: Nothing to clean as the dataset had no duplicates or missing values.
+* Save the cleaned file in a new folder in the directory.
+* Analysis: Perform exploratory data analysis, trend analysis, and correlation analysis
+* Modeling: Logistics Regression.
+* Visualization: Build dashboards from Power Bi to present insights and predictions.
 
 ## The rationale to map the business requirements to the Data Visualisations
 - Business Requirement: Identify accident-prone areas to aid in infrastructure improvement
@@ -77,11 +84,12 @@ The objectives above will be achieved by the following activities (summarised - 
 
 
 ## Analysis techniques used
-* List the data analysis methods used and explain limitations or alternative approaches.
-* How did you structure the data analysis techniques. Justify your response.
-* Did the data limit you, and did you use an alternative approach to meet these challenges?
-* How did you use generative AI tools to help with ideation, design thinking and code optimisation?
-
+Data Analysis methods
+*EDA Non Graphical methods were used to analyse the data to understand parameters like the mean, median and standard deviation etc.
+* EDA Basic graphs and Charts like Bar charts, Histograms, scatter plts and correlation heatmaps were utilised for further analysis.
+EDA Advanced 
+Pandas, Matplot lib and Plotly were utilised to get high quality visualisations.
+* Use of AI Tools: ChatGPT was used for brainstorming business requirements and personification of the prompts. GitHub Copilot was used to prompt for hypotheses and improving code.
 ## Ethical considerations
 - Data Privacy: The UK road accident dataset is anonymised, ensuring compliance with GDPR by removing personal identifiers like driver names and exact locations.
 
@@ -91,10 +99,11 @@ The objectives above will be achieved by the following activities (summarised - 
     - Class Imbalance: Fewer serious and fatal accidents compared to slight accidents.
 
 ## Dashboard Design
-* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
-* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project you were confident you would use a given plot to display an insight but subsequently you used another plot type).
-* How were data insights communicated to technical and non-technical audiences?
-* Explain how the dashboard was designed to communicate complex data insights to different audiences. 
+The Dash boards used are:
+* Tableau
+* Power Bi
+* Streamlit
+All the dashboard content will be presented by power point to the stakeholders
 
 ## Machine Learning
 * Data Preprocessing: Load, clean, and encode the dataset; define the target variable (Accident_Severity).
@@ -119,25 +128,25 @@ The objectives above will be achieved by the following activities (summarised - 
 * What new skills or tools do you plan to learn next based on your project experience? 
 
 ## Main Data Analysis Libraries
-* Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
-
+All the libraries used in this project are below
+* numpy==1.26.1
+* pandas==2.1.1
+* matplotlib==3.8.0
+* seaborn==0.13.2
+* ydata-profiling==4.12.0 # can be removed from requirements before deployment
+* plotly==5.17.0
+* ppscore==1.1.0 # can be removed from requirements before deployment
+* streamlit==1.40.2
+* feature-engine==1.6.1
+* imbalanced-learn==0.11.0
+* scikit-learn==1.3.1
+* xgboost==1.7.6
+* yellowbrick==1.5 # can be removed from requirements before deployment
+* Pillow==10.0.1 # can be removed from requirements before deployment
+* nbformat>=4.2.0
 
 ## Credits 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-* You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign-up page are from This Open-Source site
-- The images used for the gallery page were taken from this other open-source site
-
-
+* Credit goes to all the team members who worked tirelesly to finish the project. Special credit goes to Maha who led with support in resolving Repository issues with branches and git pulls.
 
 ## Acknowledgements (optional)
-* Thank the people who provided support through this project.
+* Thank you to all the team members.
