@@ -64,7 +64,7 @@ st.markdown("**How to Use:** Zoom with scroll/trackpad or settings (top right), 
 # Define marker size based on number of casualties (scaling factor added for better visibility)
 final_filtered_df['marker_size'] = final_filtered_df['Number_of_Casualties'] * 5
 
-# Create map figure
+# vis 1: Create map figure
 map_fig = px.scatter_mapbox(
     final_filtered_df,
     lat='Latitude',
@@ -87,3 +87,22 @@ map_fig = px.scatter_mapbox(
 
 st.plotly_chart(map_fig)
 st.caption("Map showing the location and severity of accidents, with circle size representing casualties.")
+
+# vis 2: Create bar chart of severity distribution
+st.header(f"Accident Severity Distribution in {selected_district} ({selected_year})")
+
+# Count occurrences of each severity level
+severity_counts = final_filtered_df['Accident_Severity'].value_counts().reset_index()
+severity_counts.columns = ['Accident_Severity', 'Count']
+
+# Create bar chart
+severity_fig = px.bar(
+    severity_counts, 
+    x='Accident_Severity', 
+    y='Count', 
+    color='Accident_Severity',
+    color_discrete_sequence=['lightgrey', 'lightblue', 'lightsalmon'],
+    text='Count'  # Display count above bars
+)
+
+st.plotly_chart(severity_fig)
