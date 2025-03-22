@@ -5,152 +5,114 @@ import pandas as pd
 # Load the data
 df = pd.read_csv('filtered_accident_data_set.csv')
 
-# Convert 'Accident Date' to datetime
 df['Accident Date'] = pd.to_datetime(df['Accident Date'], dayfirst=True)
-
-# Extract year, month, day, and weekday
 df['Year'] = df['Accident Date'].dt.year
-df['Month'] = df['Accident Date'].dt.month
-df['Day'] = df['Accident Date'].dt.day
 df['Weekday'] = df['Accident Date'].dt.weekday
+
+vehicle_categories = {
+    'Car': 'Cars & Taxis', 'Taxi/Private hire car': 'Cars & Taxis',
+    'Motorcycle 50cc and under': 'Motorcycles', 'Motorcycle 125cc and under': 'Motorcycles',
+    'Motorcycle over 125cc and up to 500cc': 'Motorcycles', 'Motorcycle over 500cc': 'Motorcycles',
+    'Van / Goods 3.5 tonnes mgw or under': 'Goods Vehicles', 'Goods over 3.5t. and under 7.5t': 'Goods Vehicles',
+    'Goods 7.5 tonnes mgw and over': 'Goods Vehicles', 'Bus or coach (17 or more pass seats)': 'Public Transport',
+    'Minibus (8 - 16 passenger seats)': 'Public Transport', 'Pedal cycle': 'Others',
+    'Agricultural vehicle': 'Others', 'Other vehicle': 'Others'
+}
+df['Vehicle_Category'] = df['Vehicle_Type'].map(vehicle_categories)
 
 # Streamlit App
 st.set_page_config(layout="wide")
 st.title("Traffic Accident Dashboard")
-st.subheader("This dashboard shows key trends and patterns in traffic accidents across districts, helping to identify areas for improvement and safety measures.")
+st.markdown("This dashboard shows key trends and patterns in traffic accidents, helping to identify areas for improvement and safety measures.")
+st.markdown("Created as part of a group project: [Project Repository](https://github.com/MahaSci/UK-Road-Accident-Analysis)")
+st.sidebar.header("Filters")
 
-# District Filter (Dropdown Selectbox) - Include "All Districts" option
 districts = ["All Districts"] + sorted(df['District Area'].unique().tolist())
-selected_district = st.selectbox("Select District:", districts)
+selected_district = st.sidebar.selectbox("Select District:", districts)
+filtered_df = df if selected_district == "All Districts" else df[df['District Area'] == selected_district]
 
-# Filter data based on selected district (or show all if "All Districts" is selected)
-if selected_district == "All Districts":
-    filtered_df = df
-else:
-    filtered_df = df[df['District Area'] == selected_district]
-
-# Year Filter (Dropdown Selectbox) - Include "All Years" option
 years = ["All Years"] + sorted(filtered_df['Year'].unique().tolist())
-selected_year = st.selectbox("Select Year:", years)
+selected_year = st.sidebar.selectbox("Select Year:", years)
+final_filtered_df = filtered_df if selected_year == "All Years" else filtered_df[filtered_df['Year'] == int(selected_year)]
 
-# Filter data based on selected year (or show all if "All Years" is selected)
-if selected_year == "All Years":
-    final_filtered_df = filtered_df
-else:
-    final_filtered_df = filtered_df[filtered_df['Year'] == int(selected_year)]
 
-# KPIs
-st.header(f"2. Key Metrics for {selected_district} ({selected_year})")
+# KPI Metrics
+st.subheader(f"Key Metrics for {selected_district} ({selected_year})")
 kpi_col1, kpi_col2, kpi_col3, kpi_col4 = st.columns(4)
+kpi_col1.metric("Total Accidents", len(final_filtered_df))
+kpi_col2.metric("Slight Accidents", len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Slight']))
+kpi_col3.metric("Serious Accidents", len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Serious']))
+kpi_col4.metric("Fatal Accidents", len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Fatal']))
 
-total_accidents = len(final_filtered_df)
-slight_accidents = len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Slight'])
-serious_accidents = len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Serious'])
-fatal_accidents = len(final_filtered_df[final_filtered_df['Accident_Severity'] == 'Fatal'])
-
-with kpi_col1:
-    st.metric("Total Accidents", total_accidents)
-with kpi_col2:
-    st.metric("Slight Accidents", slight_accidents)
-with kpi_col3:
-    st.metric("Serious Accidents", serious_accidents)
-with kpi_col4:
-    st.metric("Fatal Accidents", fatal_accidents)
-
-st.header(f"3. Accident Locations in {selected_district} ({selected_year})")
-st.markdown("**How to Use:** Zoom with scroll/trackpad or settings (top right), click legend circles to filter by severity, use dropdowns for district & year, and hover for casualties & vehicles.")
-
-
-# Define marker size based on number of casualties (scaling factor added for better visibility)
+# Map Visualization
+st.subheader(f"Accident Locations in {selected_district} ({selected_year})")
 final_filtered_df['marker_size'] = final_filtered_df['Number_of_Casualties'] * 5
-
-# vis 1: Create map figure
 map_fig = px.scatter_mapbox(
-    final_filtered_df,
-    lat='Latitude',
-    lon='Longitude',
-    color='Accident_Severity',
-    size='marker_size',  # Adjust size based on casualties
-    opacity=0.6,  # Make circles more transparent
-    mapbox_style='carto-positron',
-    zoom=10,
-    labels={'Accident_Severity': 'Severity'},
-    hover_data={
-        'Accident_Severity': True,
-        'Number_of_Casualties': True,
-        'Number_of_Vehicles': True,
-        'Latitude': True,
-        'Longitude': True,
-        'marker_size': False
-    }
+    final_filtered_df, lat='Latitude', lon='Longitude', color='Accident_Severity',
+    size='marker_size', opacity=0.6, mapbox_style='carto-positron', zoom=10,
+    hover_data={'Accident_Severity': True, 'Number_of_Casualties': True, 'Number_of_Vehicles': True},
+    labels={'Accident_Severity': 'Severity', 'Number_of_Casualties': 'Casualties', 'Number_of_Vehicles': 'Vehicles Involved'}
 )
-
 st.plotly_chart(map_fig)
-st.caption("Map showing the location and severity of accidents, with circle size representing casualties.")
 
-# vis 2: Create bar chart of severity distribution
-st.header(f"Accident Severity Distribution in {selected_district} ({selected_year})")
-
-# Count occurrences of each severity level
+# Severity Distribution
+col1, col2 = st.columns(2)
 severity_counts = final_filtered_df['Accident_Severity'].value_counts().reset_index()
 severity_counts.columns = ['Accident_Severity', 'Count']
+severity_fig = px.bar(severity_counts, x='Accident_Severity', y='Count', color='Accident_Severity', text='Count',
+                      labels={'Accident_Severity': 'Severity', 'Count': 'Number of Accidents'})
+col1.subheader("Severity Distribution")
+col1.plotly_chart(severity_fig)
 
-# Create bar chart
-severity_fig = px.bar(
-    severity_counts, 
-    x='Accident_Severity', 
-    y='Count', 
-    color='Accident_Severity',
-    color_discrete_sequence=['lightgrey', 'lightblue', 'lightsalmon'],
-    text='Count'  # Display count above bars
-)
-
-st.plotly_chart(severity_fig)
-
-# -- temporal charts --
-
-# vis 3: Create line chart for accident over time (monthly)
-st.header(f"3. Monthly Accident Trend in {selected_district} ({selected_year})")
-
-# Aggregate accidents by month
+# Monthly Trend
 monthly_trend = final_filtered_df.groupby(final_filtered_df['Accident Date'].dt.month).size().reset_index(name='Count')
-monthly_trend.columns = ['Month', 'Count']
-
-# Define month labels manually
-month_labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Noc', 'Dec']
-monthly_trend['Month_Label'] = monthly_trend['Month'].apply(lambda x: month_labels[x - 1])  # Convert 1-12 to JFMAMJJASOND
-
-# Create the line chart
+month_labels = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+monthly_trend['Month_Label'] = monthly_trend['Accident Date'].apply(lambda x: month_labels[x - 1])
 monthly_fig = px.line(
     monthly_trend, 
     x='Month_Label', 
     y='Count', 
-    markers=True,
+    markers=True, 
     text='Count',
     labels={'Month_Label': 'Month', 'Count': 'Number of Accidents'}
 )
+monthly_fig.update_traces(textposition='top center')  # Adjust label positioning
 
-# Ensure proper ordering of months
-monthly_fig.update_xaxes(categoryorder='array', categoryarray=month_labels)
+col2.subheader("Monthly Accident Trend")
+col2.plotly_chart(monthly_fig)
 
-# Simplify hover tooltip (only show count)
-monthly_fig.update_traces(hovertemplate='Accidents: %{y}', textposition='top center', textfont_size=14)
+# Weekly Trend
+st.subheader("Weekly Accident Trend")
+weekday_counts = final_filtered_df['Weekday'].value_counts().sort_index()
+weekday_fig = px.bar(
+    x=['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+    y=weekday_counts.values,
+    labels={'x': 'Day of the Week', 'y': 'Number of Accidents'}
+)
+st.plotly_chart(weekday_fig)
 
-st.plotly_chart(monthly_fig)
+# Urban/Rural & Vehicle Breakdown
+col3, col4 = st.columns(2)
+urban_rural_counts = final_filtered_df['Urban_or_Rural_Area'].value_counts()
+urban_rural_fig = px.bar(x=urban_rural_counts.index, y=urban_rural_counts.values, text=urban_rural_counts.values,
+                          labels={'x': 'Location Type', 'y': 'Number of Accidents'})
+col3.subheader("Urban vs. Rural Accidents")
+col3.plotly_chart(urban_rural_fig)
 
-# vis 4: Create bar chart of accident severity by day of week
+vehicle_category_counts = final_filtered_df['Vehicle_Category'].value_counts()
+vehicle_category_fig = px.bar(x=vehicle_category_counts.index, y=vehicle_category_counts.values, text=vehicle_category_counts.values,
+                              labels={'x': 'Vehicle Type', 'y': 'Number of Accidents'})
+col4.subheader("Vehicle Type Breakdown")
+col4.plotly_chart(vehicle_category_fig)
 
-# -- distribution charts --
+# Light Conditions vs Severity & Road Surface Conditions vs Severity
+col5, col6 = st.columns(2)
+light_severity_fig = px.histogram(final_filtered_df, x='Light_Conditions', color='Accident_Severity', barmode='group',
+                                  labels={'Light_Conditions': 'Lighting', 'Accident_Severity': 'Severity'})
+col5.subheader("Light Conditions vs. Severity")
+col5.plotly_chart(light_severity_fig)
 
-# vis 5: urban vs rural accidents distribution
-
-# vis 6: Create bar chart of vehicle types involved in accidents in year x
-
-# vis 7: Create multi bar chart of severity vs light conditions
-
-# vis 8: Create multi bar chart of severity vs road surface conditions
-
-
-
-
-
+road_surface_fig = px.histogram(final_filtered_df, x='Road_Surface_Conditions', color='Accident_Severity', barmode='group',
+                                labels={'Road_Surface_Conditions': 'Road Surface', 'Accident_Severity': 'Severity'})
+col6.subheader("Road Surface Conditions vs. Severity")
+col6.plotly_chart(road_surface_fig)
