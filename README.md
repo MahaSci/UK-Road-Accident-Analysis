@@ -57,6 +57,8 @@ The objectives above will be achieved by the following activities (summarised - 
 4) Accidents in rural areas are more severe than urban.
 5) Accident severity is dependent on light conditions. [view](jupyter_notebooks/06_Hypothesis_Testing_Categorical.ipynb)
 
+[test](<jupyter_notebooks/05_Hypothesis Testing - Numerical Variables.ipynb>)
+
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
 * How was the data managed throughout the collection, processing, analysis and interpretation steps?
