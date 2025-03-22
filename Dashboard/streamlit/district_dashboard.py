@@ -35,7 +35,7 @@ years = ["All Years"] + sorted(filtered_df['Year'].unique().tolist())
 selected_year = st.sidebar.selectbox("Select Year:", years)
 final_filtered_df = filtered_df if selected_year == "All Years" else filtered_df[filtered_df['Year'] == int(selected_year)]
 
-
+st.markdown("---") 
 # KPI Metrics
 st.subheader(f"Key Metrics for {selected_district} ({selected_year})")
 kpi_col1, kpi_col2, kpi_col3, kpi_col4 = st.columns(4)
