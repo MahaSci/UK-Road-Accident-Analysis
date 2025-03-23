@@ -1,32 +1,118 @@
 # UK_Road_Accident_Analysis
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**Project XYZ**
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
+The dataset used for this project contains detailed information about road accidents in the UK. It includes the following key features:
+
+- **Date and Time**: The date and time when the accident occurred.
+- **Location**: Latitude and longitude coordinates of the accident, along with the district or area.
+- **Weather Conditions**: Information about weather conditions at the time of the accident (e.g., dry, wet, icy).
+- **Road Surface Conditions**: Details about the road surface (e.g., dry, wet, snow, ice).
+- **Road Type**: The type of road where the accident occurred (e.g., single carriageway, roundabout, slip road).
+- **Severity**: The severity of the accident (e.g., slight, serious, fatal).
+- **Number of Vehicles**: The number of vehicles involved in the accident.
+- **Number of Casualties**: The number of people injured or killed in the accident.
+
+The dataset spans multiple years and provides a comprehensive view of road accidents, enabling detailed analysis of trends, patterns, and factors contributing to accidents.
+
+The data source can be found here:
+[text](https://www.kaggle.com/datasets/charliescott556/uk-vehicle-accident-database-2019-2022/)
+
 
 
 ## Business Requirements
-* Describe your business requirements. Get the requirements
 
+The primary goal of this project is to analyze road accident data in the UK to uncover patterns, trends, and insights that can help improve road safety. The specific business requirements are:
+
+1. **Identify Seasonal Trends**:
+   - Analyze whether accidents are more frequent during specific seasons (e.g., Winter) and determine the factors contributing to these trends.
+
+2. **Assess Weather Impact**:
+   - Investigate the relationship between weather conditions (e.g., wet, icy, or dry) and accident frequency or severity.
+
+3. **Understand Multi-Vehicle Accidents**:
+   - Determine whether multi-vehicle accidents result in a higher number of casualties compared to single-vehicle accidents.
+
+4. **Compare Urban vs. Rural Areas**:
+   - Analyze whether accidents in rural areas are more severe than those in urban areas.
+
+5. **Provide Actionable Insights**:
+   - Deliver insights that can help policymakers, road safety authorities, and urban planners make data-driven decisions to reduce accidents and improve road safety.
+
+The user profile is the Department for Transport. As well as receiving insights on the above, they wanted the following specific questions answered:
 
 ## Hypothesis and how to validate?
 1) Accidents are more frequent during Winter periods 
 2) Accidents are more frequent during non-dry weather conditions.
-### (I suggest changing 2 to non-dry accidents have a higher percentage of severe/fatal injuries, or drop it althougher)
 3) Multi-vehicle accidents lead to a higher number of casualties.
 4) Accidents in rural areas are more severe than urban.
 
 ## Project Plan
-* Outline the high-level steps taken for the analysis.
-* How was the data managed throughout the collection, processing, analysis and interpretation steps?
-* Why did you choose the research methodologies you used?
 
-## The rationale to map the business requirements to the Data Visualisations
-* List your business requirements and a rationale to map them to the Data Visualisations
+This project follows a structured approach to analyze UK road accident data and deliver actionable insights. The key steps in the project plan are as follows:
+
+1. **Data Collection and Preparation**:
+   - Source the dataset from [Kaggle](https://www.kaggle.com/datasets/charliescott556/uk-vehicle-accident-database-2019-2022/).
+   - Clean and preprocess the data to handle missing values, inconsistencies, and outliers.
+   - Perform feature engineering to extract relevant information (e.g., seasons from dates, accident severity categories).
+
+2. **Exploratory Data Analysis (EDA)**:
+   - Conduct basic and advanced visualizations to understand the dataset.
+   - Identify trends, patterns, and potential relationships between variables (e.g., weather conditions and accident severity).
+
+3. **Hypothesis Testing**:
+   - Validate the hypotheses outlined in the "Business Requirements" section using statistical tests (e.g., Chi-Squared Test, Linear Regression).
+   - Test relationships between variables such as weather conditions, road types, and accident severity.
+
+4. **Data Visualization**:
+   - Create visualizations to communicate insights effectively.
+   - Use tools like Plotly and Matplotlib to generate interactive and static plots.
+
+5. **Dashboard Development**:
+   - Design and implement a dashboard to present key insights to both technical and non-technical audiences.
+   - Ensure the dashboard is user-friendly and visually appealing.
+
+6. **Modeling and Analysis**:
+   - Use statistical and machine learning models (if applicable) to predict accident severity or identify key factors influencing accidents.
+   - Evaluate model performance and interpret results.
+
+7. **Insights and Recommendations**:
+   - Summarize findings and provide actionable recommendations for improving road safety.
+   - Highlight key insights for policymakers and stakeholders.
+
+8. **Documentation and Deployment**:
+   - Document the entire process, including challenges faced and solutions implemented.
+   - Deploy the dashboard or application (if applicable) to a platform like Heroku for public access.
+
+## The Rationale to Map the Business Requirements to the Data Visualisations
+
+The visualizations in this project were designed to address the business requirements and hypotheses by providing clear and actionable insights. Below is the mapping of business requirements to the corresponding visualizations:
+
+1. **Identify Seasonal Trends**:
+   - **Visualization**: A line chart showing the number of accidents per month over the years.
+   - **Rationale**: This visualization highlights seasonal patterns, such as whether accidents are more frequent during Winter months.
+
+2. **Assess Weather Impact**:
+   - **Visualization**: A bar chart comparing the number of accidents under different weather conditions (e.g., dry, wet, icy).
+   - **Rationale**: This helps identify the relationship between weather conditions and accident frequency or severity.
+
+3. **Understand Multi-Vehicle Accidents**:
+   - **Visualization**: A stacked bar chart showing the number of casualties for single-vehicle vs. multi-vehicle accidents.
+   - **Rationale**: This visualization demonstrates whether multi-vehicle accidents result in more casualties compared to single-vehicle accidents.
+
+4. **Compare Urban vs. Rural Areas**:
+   - **Visualization**: A box plot comparing accident severity in urban and rural areas.
+   - **Rationale**: This visualization provides insights into whether accidents in rural areas are more severe than those in urban areas.
+
+5. **Provide Actionable Insights**:
+   - **Visualization**: A dashboard summarizing key findings, including accident trends, weather impact, and severity comparisons.
+   - **Rationale**: The dashboard consolidates insights into a user-friendly format for policymakers and stakeholders.
+
+Each visualization was chosen to effectively communicate the insights needed to meet the business requirements and validate the hypotheses.
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
