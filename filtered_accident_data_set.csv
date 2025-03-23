@@ -9026,6 +9026,333 @@ Index,Accident_Severity,Accident Date,Latitude,Light_Conditions,District Area,Lo
 2.01E+12,Slight,29-12-2019,52.363777,Darkness - lights lit,Warwick,-1.522679,1,2,Wet or damp,Dual carriageway,Rural,Car
 2.01E+12,Slight,31-12-2019,52.27262,Darkness - lights lit,Warwick,-1.596938,2,1,Wet or damp,Single carriageway,Urban,Bus or coach (17 or more pass seats)
 2.01E+12,Slight,23-12-2019,52.287333,Daylight,Warwick,-1.454743,2,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,04-01-2019,52.471696,Daylight,Nuneaton and Bedworth,-1.488242,1,3,Wet or damp,Dual carriageway,Rural,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,05-01-2019,52.526467,Darkness - lights lit,Nuneaton and Bedworth,-1.514432,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,05-01-2019,52.525,Daylight,Nuneaton and Bedworth,-1.466102,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-01-2019,52.513164,Daylight,Nuneaton and Bedworth,-1.453131,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,06-01-2019,52.528604,Darkness - lights lit,Nuneaton and Bedworth,-1.448075,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-01-2019,52.511899,Darkness - lights lit,Nuneaton and Bedworth,-1.471566,3,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,09-01-2019,52.513794,Darkness - lights lit,Nuneaton and Bedworth,-1.453271,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,12-01-2019,52.462557,Daylight,Nuneaton and Bedworth,-1.495412,1,2,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,09-01-2019,52.46144,Daylight,Nuneaton and Bedworth,-1.529866,1,2,Wet or damp,Single carriageway,Rural,Motorcycle over 500cc
+2.01E+12,Slight,12-01-2019,52.513266,Daylight,Nuneaton and Bedworth,-1.455635,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,18-01-2019,52.46191,Daylight,Nuneaton and Bedworth,-1.491299,1,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,18-01-2019,52.514161,Darkness - lights lit,Nuneaton and Bedworth,-1.474633,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Serious,19-01-2019,52.495633,Daylight,Nuneaton and Bedworth,-1.434053,1,1,Dry,Single carriageway,Rural,Goods over 3.5t. and under 7.5t
+2.01E+12,Fatal,20-01-2019,52.502795,Darkness - lights lit,Nuneaton and Bedworth,-1.427773,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,20-01-2019,52.528517,Daylight,Nuneaton and Bedworth,-1.448666,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,20-01-2019,52.463224,Daylight,Nuneaton and Bedworth,-1.483188,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,19-01-2019,52.515361,Daylight,Nuneaton and Bedworth,-1.502765,2,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-01-2019,52.472999,Darkness - lights lit,Nuneaton and Bedworth,-1.477626,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-01-2019,52.535134,Daylight,Nuneaton and Bedworth,-1.42234,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-01-2019,52.464095,Darkness - no lighting,Nuneaton and Bedworth,-1.49775,1,3,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,26-01-2019,52.479072,Darkness - no lighting,Nuneaton and Bedworth,-1.489187,2,3,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,26-01-2019,52.46282,Darkness - no lighting,Nuneaton and Bedworth,-1.49379,2,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,27-01-2019,52.525383,Daylight,Nuneaton and Bedworth,-1.471257,1,1,Wet or damp,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,25-01-2019,52.498148,Darkness - lights lit,Nuneaton and Bedworth,-1.47232,1,2,Frost or ice,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,30-01-2019,52.518859,Daylight,Nuneaton and Bedworth,-1.45984,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,31-01-2019,52.518868,Daylight,Nuneaton and Bedworth,-1.481946,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,31-01-2019,52.515758,Darkness - lights lit,Nuneaton and Bedworth,-1.53415,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,31-01-2019,52.513489,Darkness - lights lit,Nuneaton and Bedworth,-1.46521,2,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,01-02-2019,52.511052,Daylight,Nuneaton and Bedworth,-1.549229,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,01-02-2019,52.502118,Darkness - no lighting,Nuneaton and Bedworth,-1.475661,1,3,Dry,Dual carriageway,Urban,Car
+2.01E+12,Serious,01-02-2019,52.479581,Darkness - lights lit,Nuneaton and Bedworth,-1.481966,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-02-2019,52.479255,Darkness - lights lit,Nuneaton and Bedworth,-1.469454,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,03-02-2019,52.528816,Darkness - lights lit,Nuneaton and Bedworth,-1.435985,1,2,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,02-02-2019,52.498148,Daylight,Nuneaton and Bedworth,-1.47232,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Fatal,04-02-2019,52.508262,Darkness - lights lit,Nuneaton and Bedworth,-1.442878,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,04-02-2019,52.478094,Darkness - lights lit,Nuneaton and Bedworth,-1.491701,2,3,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,04-02-2019,52.475885,Darkness - lights lit,Nuneaton and Bedworth,-1.421644,1,1,Frost or ice,Roundabout,Urban,Car
+2.01E+12,Slight,05-02-2019,52.513397,Darkness - lights lit,Nuneaton and Bedworth,-1.464769,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,03-02-2019,52.525871,Daylight,Nuneaton and Bedworth,-1.459754,1,2,Dry,One way street,Urban,Car
+2.01E+12,Serious,06-02-2019,52.522496,Daylight,Nuneaton and Bedworth,-1.489273,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,07-02-2019,52.545576,Daylight,Nuneaton and Bedworth,-1.444028,1,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,08-02-2019,52.473664,Darkness - lights lit,Nuneaton and Bedworth,-1.507063,1,2,Snow,Single carriageway,Urban,Car
+2.01E+12,Slight,09-02-2019,52.513361,Daylight,Nuneaton and Bedworth,-1.476706,1,2,Snow,Single carriageway,Urban,Car
+2.01E+12,Slight,14-02-2019,52.536153,Daylight,Nuneaton and Bedworth,-1.508723,1,1,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,14-02-2019,52.475395,Daylight,Nuneaton and Bedworth,-1.413553,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-02-2019,52.521668,Darkness - lights lit,Nuneaton and Bedworth,-1.485008,1,4,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-02-2019,52.52543,Daylight,Nuneaton and Bedworth,-1.461675,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-02-2019,52.537013,Darkness - lights lit,Nuneaton and Bedworth,-1.420546,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,21-02-2019,52.477851,Daylight,Nuneaton and Bedworth,-1.477127,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-02-2019,52.515559,Daylight,Nuneaton and Bedworth,-1.552425,2,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,23-02-2019,52.463483,Daylight,Nuneaton and Bedworth,-1.48083,3,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,23-02-2019,52.528283,Darkness - lights lit,Nuneaton and Bedworth,-1.437318,1,1,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,25-02-2019,52.509931,Darkness - lights lit,Nuneaton and Bedworth,-1.453761,2,1,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,18-02-2019,52.485928,Daylight,Nuneaton and Bedworth,-1.473939,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-03-2019,52.526849,Daylight,Nuneaton and Bedworth,-1.457531,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-03-2019,52.502661,Daylight,Nuneaton and Bedworth,-1.437351,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,06-03-2019,52.461653,Daylight,Nuneaton and Bedworth,-1.494245,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,07-03-2019,52.48346,Daylight,Nuneaton and Bedworth,-1.426404,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-03-2019,52.451472,Daylight,Nuneaton and Bedworth,-1.510254,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,08-03-2019,52.517261,Daylight,Nuneaton and Bedworth,-1.505691,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-03-2019,52.500037,Darkness - no lighting,Nuneaton and Bedworth,-1.452852,1,1,Dry,Single carriageway,Rural,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,10-03-2019,52.477556,Darkness - lights lit,Nuneaton and Bedworth,-1.491854,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-03-2019,52.497795,Daylight,Nuneaton and Bedworth,-1.473945,1,2,Dry,Roundabout,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Serious,11-03-2019,52.461697,Darkness - lights lit,Nuneaton and Bedworth,-1.4835,1,1,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,10-03-2019,52.519873,Darkness - lights lit,Nuneaton and Bedworth,-1.485766,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-03-2019,52.514217,Darkness - lights lit,Nuneaton and Bedworth,-1.467265,1,1,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,19-03-2019,52.502084,Daylight,Nuneaton and Bedworth,-1.468001,2,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,19-03-2019,52.521037,Daylight,Nuneaton and Bedworth,-1.484721,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,23-03-2019,52.532131,Daylight,Nuneaton and Bedworth,-1.514517,1,1,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,30-03-2019,52.522734,Daylight,Nuneaton and Bedworth,-1.482048,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-03-2019,52.53494,Daylight,Nuneaton and Bedworth,-1.498269,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,01-04-2019,52.525592,Daylight,Nuneaton and Bedworth,-1.47774,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,30-03-2019,52.508963,Daylight,Nuneaton and Bedworth,-1.458488,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-03-2019,52.515758,Daylight,Nuneaton and Bedworth,-1.534002,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,23-03-2019,52.534687,Daylight,Nuneaton and Bedworth,-1.441659,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-03-2019,52.457837,Daylight,Nuneaton and Bedworth,-1.505916,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Serious,25-03-2019,52.46334,Daylight,Nuneaton and Bedworth,-1.510564,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-04-2019,52.471271,Darkness - lights lit,Nuneaton and Bedworth,-1.493841,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-04-2019,52.503435,Daylight,Nuneaton and Bedworth,-1.468574,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,09-04-2019,52.500587,Darkness - lighting unknown,Nuneaton and Bedworth,-1.47509,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,09-04-2019,52.528274,Darkness - lights lit,Nuneaton and Bedworth,-1.495102,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-04-2019,52.461654,Daylight,Nuneaton and Bedworth,-1.494393,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Serious,12-04-2019,52.518712,Daylight,Nuneaton and Bedworth,-1.46721,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,12-04-2019,52.521596,Daylight,Nuneaton and Bedworth,-1.489136,1,1,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,10-04-2019,52.527301,Daylight,Nuneaton and Bedworth,-1.457967,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-04-2019,52.458986,Daylight,Nuneaton and Bedworth,-1.522975,3,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,23-04-2019,52.485264,Daylight,Nuneaton and Bedworth,-1.427706,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,23-04-2019,52.458407,Daylight,Nuneaton and Bedworth,-1.471471,1,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,02-04-2019,52.465139,Daylight,Nuneaton and Bedworth,-1.510691,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,19-04-2019,52.47958,Daylight,Nuneaton and Bedworth,-1.481819,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-04-2019,52.50068,Daylight,Nuneaton and Bedworth,-1.436492,1,3,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,22-04-2019,52.52756,Darkness - lights lit,Nuneaton and Bedworth,-1.475653,3,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,01-05-2019,52.499599,Daylight,Nuneaton and Bedworth,-1.436064,1,3,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,25-04-2019,52.52984,Daylight,Nuneaton and Bedworth,-1.462801,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-04-2019,52.451472,Darkness - lights lit,Nuneaton and Bedworth,-1.510401,2,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Serious,26-04-2019,52.466941,Darkness - no lighting,Nuneaton and Bedworth,-1.511849,2,3,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,22-04-2019,52.497885,Daylight,Nuneaton and Bedworth,-1.473796,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,25-04-2019,52.511988,Daylight,Nuneaton and Bedworth,-1.47127,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,28-04-2019,52.507081,Daylight,Nuneaton and Bedworth,-1.440388,1,2,Dry,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,28-04-2019,52.520607,Daylight,Nuneaton and Bedworth,-1.532625,2,2,Dry,Single carriageway,Rural,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,29-04-2019,52.522422,Daylight,Nuneaton and Bedworth,-1.472471,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,02-05-2019,52.492435,Daylight,Nuneaton and Bedworth,-1.48152,1,1,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,04-05-2019,52.479153,Daylight,Nuneaton and Bedworth,-1.487124,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,04-05-2019,52.51646,Daylight,Nuneaton and Bedworth,-1.553005,3,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,30-04-2019,52.523718,Daylight,Nuneaton and Bedworth,-1.481005,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-05-2019,52.513887,Daylight,Nuneaton and Bedworth,-1.473752,1,2,Dry,Single carriageway,Urban,Motorcycle 50cc and under
+2.01E+12,Slight,09-05-2019,52.495454,Daylight,Nuneaton and Bedworth,-1.473089,3,3,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Serious,12-05-2019,52.482313,Daylight,Nuneaton and Bedworth,-1.469712,1,1,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,13-05-2019,52.515335,Daylight,Nuneaton and Bedworth,-1.496576,1,2,Wet or damp,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,13-05-2019,52.521597,Daylight,Nuneaton and Bedworth,-1.489283,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,15-05-2019,52.535683,Daylight,Nuneaton and Bedworth,-1.503715,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,17-05-2019,52.528827,Daylight,Nuneaton and Bedworth,-1.477554,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-05-2019,52.479575,Daylight,Nuneaton and Bedworth,-1.480641,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-05-2019,52.545943,Daylight,Nuneaton and Bedworth,-1.445498,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,22-05-2019,52.478983,Daylight,Nuneaton and Bedworth,-1.489335,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,23-05-2019,52.510234,Daylight,Nuneaton and Bedworth,-1.461124,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-05-2019,52.461561,Daylight,Nuneaton and Bedworth,-1.493805,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,25-05-2019,52.479922,Daylight,Nuneaton and Bedworth,-1.477839,2,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,25-05-2019,52.502333,Daylight,Nuneaton and Bedworth,-1.425127,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-05-2019,52.523169,Daylight,Nuneaton and Bedworth,-1.4788,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,28-05-2019,52.482391,Daylight,Nuneaton and Bedworth,-1.466913,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,31-05-2019,52.516195,Daylight,Nuneaton and Bedworth,-1.467241,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Serious,11-05-2019,52.460992,Daylight,Nuneaton and Bedworth,-1.530165,1,2,Wet or damp,Single carriageway,Rural,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,01-06-2019,52.531665,Daylight,Nuneaton and Bedworth,-1.510542,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,06-06-2019,52.500199,Daylight,Nuneaton and Bedworth,-1.46876,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,28-05-2019,52.519361,Daylight,Nuneaton and Bedworth,-1.471476,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-06-2019,52.480779,Daylight,Nuneaton and Bedworth,-1.488725,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Serious,07-06-2019,52.465525,Daylight,Nuneaton and Bedworth,-1.495673,1,1,Dry,Single carriageway,Rural,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,08-06-2019,52.468432,Daylight,Nuneaton and Bedworth,-1.502853,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Serious,09-06-2019,52.481519,Daylight,Nuneaton and Bedworth,-1.473108,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-06-2019,52.481681,Darkness - lights lit,Nuneaton and Bedworth,-1.468983,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-06-2019,52.498728,Daylight,Nuneaton and Bedworth,-1.461412,2,2,Flood over 3cm. deep,Single carriageway,Rural,Car
+2.01E+12,Slight,15-06-2019,52.52516,Daylight,Nuneaton and Bedworth,-1.461679,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,15-06-2019,52.501599,Daylight,Nuneaton and Bedworth,-1.440753,1,2,Flood over 3cm. deep,Single carriageway,Urban,Car
+2.01E+12,Slight,16-06-2019,52.511992,Daylight,Nuneaton and Bedworth,-1.472154,1,1,Dry,Roundabout,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,16-06-2019,52.536786,Daylight,Nuneaton and Bedworth,-1.467876,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,06-06-2019,52.497273,Darkness - lights lit,Nuneaton and Bedworth,-1.477781,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-06-2019,52.526943,Daylight,Nuneaton and Bedworth,-1.458414,1,2,Dry,One way street,Urban,Car
+2.01E+12,Slight,20-06-2019,52.522042,Daylight,Nuneaton and Bedworth,-1.467907,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-06-2019,52.520606,Daylight,Nuneaton and Bedworth,-1.468514,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,21-06-2019,52.515928,Daylight,Nuneaton and Bedworth,-1.448086,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,25-06-2019,52.518505,Daylight,Nuneaton and Bedworth,-1.481213,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-06-2019,52.528333,Daylight,Nuneaton and Bedworth,-1.531363,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,27-06-2019,52.52328,Daylight,Nuneaton and Bedworth,-1.463323,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-06-2019,52.487267,Daylight,Nuneaton and Bedworth,-1.471714,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-06-2019,52.523155,Darkness - lights lit,Nuneaton and Bedworth,-1.49634,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-06-2019,52.549947,Daylight,Nuneaton and Bedworth,-1.455919,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,01-07-2019,52.468235,Daylight,Nuneaton and Bedworth,-1.520373,2,1,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,01-07-2019,52.513455,Daylight,Nuneaton and Bedworth,-1.457843,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,04-07-2019,52.454034,Daylight,Nuneaton and Bedworth,-1.499483,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,05-07-2019,52.520679,Daylight,Nuneaton and Bedworth,-1.551341,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,30-06-2019,52.522401,Daylight,Nuneaton and Bedworth,-1.467755,1,1,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,05-07-2019,52.488983,Daylight,Nuneaton and Bedworth,-1.473461,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,07-07-2019,52.536955,Darkness - lights lit,Nuneaton and Bedworth,-1.465663,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,07-07-2019,52.535722,Darkness - lights lit,Nuneaton and Bedworth,-1.451524,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-07-2019,52.542207,Daylight,Nuneaton and Bedworth,-1.434928,2,2,Dry,Single carriageway,Rural,Motorcycle 50cc and under
+2.01E+12,Slight,08-07-2019,52.521449,Daylight,Nuneaton and Bedworth,-1.496801,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,14-06-2019,52.463633,Daylight,Nuneaton and Bedworth,-1.494811,2,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,11-07-2019,52.51235,Daylight,Nuneaton and Bedworth,-1.471855,1,2,Dry,Roundabout,Urban,Motorcycle over 500cc
+2.01E+12,Slight,11-07-2019,52.51667,Daylight,Nuneaton and Bedworth,-1.453088,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-07-2019,52.534216,Daylight,Nuneaton and Bedworth,-1.497098,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-07-2019,52.527377,Daylight,Nuneaton and Bedworth,-1.47477,1,2,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,13-07-2019,52.46981,Daylight,Nuneaton and Bedworth,-1.488705,1,2,Wet or damp,Dual carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,13-07-2019,52.490151,Daylight,Nuneaton and Bedworth,-1.473447,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,16-07-2019,52.524627,Daylight,Nuneaton and Bedworth,-1.463012,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-07-2019,52.489772,Daylight,Nuneaton and Bedworth,-1.430446,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-07-2019,52.521672,Daylight,Nuneaton and Bedworth,-1.48604,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,27-07-2019,52.546032,Daylight,Nuneaton and Bedworth,-1.445349,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,28-07-2019,52.524849,Daylight,Nuneaton and Bedworth,-1.493078,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-07-2019,52.522422,Darkness - lights lit,Nuneaton and Bedworth,-1.472471,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,30-07-2019,52.522332,Daylight,Nuneaton and Bedworth,-1.472472,2,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Serious,02-08-2019,52.490371,Daylight,Nuneaton and Bedworth,-1.482575,1,1,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,02-08-2019,52.465379,Daylight,Nuneaton and Bedworth,-1.482574,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,05-08-2019,52.513581,Darkness - lights lit,Nuneaton and Bedworth,-1.465651,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-08-2019,52.527112,Daylight,Nuneaton and Bedworth,-1.51811,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-08-2019,52.508687,Darkness - lights lit,Nuneaton and Bedworth,-1.437863,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-08-2019,52.526933,Daylight,Nuneaton and Bedworth,-1.476102,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-08-2019,52.525564,Darkness - lights lit,Nuneaton and Bedworth,-1.471402,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-08-2019,52.47768,Darkness - lights lit,Nuneaton and Bedworth,-1.421179,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-08-2019,52.499944,Daylight,Nuneaton and Bedworth,-1.414699,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,12-08-2019,52.535213,Darkness - lights lit,Nuneaton and Bedworth,-1.498855,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,16-08-2019,52.463186,Darkness - lights lit,Nuneaton and Bedworth,-1.495405,4,1,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,17-08-2019,52.525441,Daylight,Nuneaton and Bedworth,-1.464034,1,1,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,17-08-2019,52.536901,Daylight,Nuneaton and Bedworth,-1.515791,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,18-08-2019,52.511811,Darkness - lights lit,Nuneaton and Bedworth,-1.472009,1,1,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,19-08-2019,52.464959,Daylight,Nuneaton and Bedworth,-1.510693,1,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,22-08-2019,52.507661,Daylight,Nuneaton and Bedworth,-1.46867,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-08-2019,52.522331,Daylight,Nuneaton and Bedworth,-1.472325,2,2,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,22-08-2019,52.536651,Daylight,Nuneaton and Bedworth,-1.420109,1,2,Dry,Slip road,Urban,Car
+2.01E+12,Slight,27-08-2019,52.536647,Daylight,Nuneaton and Bedworth,-1.419372,3,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,27-08-2019,52.530832,Daylight,Nuneaton and Bedworth,-1.463378,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,03-09-2019,52.514071,Daylight,Nuneaton and Bedworth,-1.474782,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-09-2019,52.497612,Daylight,Nuneaton and Bedworth,-1.47321,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Serious,04-09-2019,52.49159,Darkness - no lighting,Nuneaton and Bedworth,-1.453693,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,07-09-2019,52.524205,Daylight,Nuneaton and Bedworth,-1.489548,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,08-09-2019,52.499809,Darkness - lights lit,Nuneaton and Bedworth,-1.482023,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-09-2019,52.515338,Darkness - lights lit,Nuneaton and Bedworth,-1.497461,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-09-2019,52.479074,Daylight,Nuneaton and Bedworth,-1.489481,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-09-2019,52.516417,Daylight,Nuneaton and Bedworth,-1.518964,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-09-2019,52.516876,Darkness - lights lit,Nuneaton and Bedworth,-1.478875,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-09-2019,52.51467,Daylight,Nuneaton and Bedworth,-1.467849,1,2,Dry,Roundabout,Urban,Motorcycle over 500cc
+2.01E+12,Slight,13-09-2019,52.511172,Daylight,Nuneaton and Bedworth,-1.469806,2,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,14-09-2019,52.477281,Daylight,Nuneaton and Bedworth,-1.413086,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-09-2019,52.535776,Darkness - lights lit,Nuneaton and Bedworth,-1.504451,1,1,Dry,One way street,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,15-09-2019,52.463224,Daylight,Nuneaton and Bedworth,-1.483188,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,15-09-2019,52.52765,Darkness - lights lit,Nuneaton and Bedworth,-1.475652,2,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-08-2019,52.459305,Daylight,Nuneaton and Bedworth,-1.471313,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-09-2019,52.525006,Darkness - lights lit,Nuneaton and Bedworth,-1.467282,1,1,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,20-09-2019,52.520381,Daylight,Nuneaton and Bedworth,-1.521131,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-09-2019,52.470978,Daylight,Nuneaton and Bedworth,-1.488544,2,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,24-09-2019,52.481263,Daylight,Nuneaton and Bedworth,-1.476056,2,2,Dry,One way street,Urban,Car
+2.01E+12,Slight,24-09-2019,52.451472,Darkness - lights lit,Nuneaton and Bedworth,-1.510401,1,2,Wet or damp,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,25-09-2019,52.52596,Daylight,Nuneaton and Bedworth,-1.459605,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,27-09-2019,52.480567,Daylight,Nuneaton and Bedworth,-1.481365,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,27-09-2019,52.51356,Darkness - lights lit,Nuneaton and Bedworth,-1.460936,1,1,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,29-09-2019,52.472326,Daylight,Nuneaton and Bedworth,-1.488381,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,29-09-2019,52.497521,Darkness - lights lit,Nuneaton and Bedworth,-1.472917,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-09-2019,52.524002,Daylight,Nuneaton and Bedworth,-1.463904,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-10-2019,52.521242,Daylight,Nuneaton and Bedworth,-1.46998,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-09-2019,52.48373,Daylight,Nuneaton and Bedworth,-1.426548,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-10-2019,52.466941,Daylight,Nuneaton and Bedworth,-1.511702,2,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,05-10-2019,52.47916,Daylight,Nuneaton and Bedworth,-1.488744,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-10-2019,52.462358,Daylight,Nuneaton and Bedworth,-1.490999,1,3,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,10-10-2019,52.495808,Daylight,Nuneaton and Bedworth,-1.432872,1,4,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-10-2019,52.524806,Daylight,Nuneaton and Bedworth,-1.462862,1,2,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,11-10-2019,52.477364,Daylight,Nuneaton and Bedworth,-1.411613,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,11-10-2019,52.498148,Daylight,Nuneaton and Bedworth,-1.47232,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-10-2019,52.513884,Daylight,Nuneaton and Bedworth,-1.473163,1,2,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,13-10-2019,52.500055,Daylight,Nuneaton and Bedworth,-1.456829,3,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,13-10-2019,52.463722,Darkness - lights lit,Nuneaton and Bedworth,-1.494516,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,15-10-2019,52.517457,Daylight,Nuneaton and Bedworth,-1.448215,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,16-10-2019,52.463633,Daylight,Nuneaton and Bedworth,-1.494811,1,2,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,16-10-2019,52.458191,Darkness - lights lit,Nuneaton and Bedworth,-1.483689,1,4,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,17-10-2019,52.527122,Darkness - lights lit,Nuneaton and Bedworth,-1.458117,2,2,Dry,One way street,Urban,Motorcycle over 125cc and up to 500cc
+2.01E+12,Slight,18-10-2019,52.465917,Daylight,Nuneaton and Bedworth,-1.482421,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-09-2019,52.463356,Daylight,Nuneaton and Bedworth,-1.493048,2,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,18-10-2019,52.477907,Daylight,Nuneaton and Bedworth,-1.489936,2,2,Dry,Slip road,Urban,Car
+2.01E+12,Slight,18-10-2019,52.52735,Daylight,Nuneaton and Bedworth,-1.5327,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,18-10-2019,52.524982,Daylight,Nuneaton and Bedworth,-1.462123,1,2,Dry,Dual carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,19-10-2019,52.463724,Daylight,Nuneaton and Bedworth,-1.494958,4,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,19-10-2019,52.521443,Daylight,Nuneaton and Bedworth,-1.474694,1,1,Dry,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,20-10-2019,52.463535,Daylight,Nuneaton and Bedworth,-1.492899,2,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,21-10-2019,52.465599,Daylight,Nuneaton and Bedworth,-1.471532,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,22-10-2019,52.517642,Daylight,Nuneaton and Bedworth,-1.489476,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-10-2019,52.499171,Daylight,Nuneaton and Bedworth,-1.460081,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,21-10-2019,52.47145,Daylight,Nuneaton and Bedworth,-1.493691,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,23-10-2019,52.464139,Daylight,Nuneaton and Bedworth,-1.487004,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-10-2019,52.459729,Darkness - no lighting,Nuneaton and Bedworth,-1.485878,1,3,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,24-10-2019,52.50919,Daylight,Nuneaton and Bedworth,-1.468799,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-10-2019,52.536922,Daylight,Nuneaton and Bedworth,-1.4204,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,27-10-2019,52.522657,Daylight,Nuneaton and Bedworth,-1.50622,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-10-2019,52.536189,Darkness - lights lit,Nuneaton and Bedworth,-1.517568,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-10-2019,52.522249,Daylight,Nuneaton and Bedworth,-1.474095,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,29-10-2019,52.469327,Daylight,Nuneaton and Bedworth,-1.480908,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-10-2019,52.5195,Daylight,Nuneaton and Bedworth,-1.482675,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,30-10-2019,52.486591,Daylight,Nuneaton and Bedworth,-1.481442,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,30-10-2019,52.534303,Daylight,Nuneaton and Bedworth,-1.45567,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,31-10-2019,52.500147,Daylight,Nuneaton and Bedworth,-1.457123,1,2,Dry,Single carriageway,Rural,Motorcycle over 500cc
+2.01E+12,Slight,31-10-2019,52.522083,Daylight,Nuneaton and Bedworth,-1.477044,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,31-10-2019,52.474431,Darkness - lights lit,Nuneaton and Bedworth,-1.476284,1,1,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Serious,30-10-2019,52.522077,Daylight,Nuneaton and Bedworth,-1.475718,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-11-2019,52.475325,Daylight,Nuneaton and Bedworth,-1.475096,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-11-2019,52.519012,Darkness - lights lit,Nuneaton and Bedworth,-1.473839,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-11-2019,52.523052,Daylight,Nuneaton and Bedworth,-1.472759,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,03-11-2019,52.523073,Daylight,Nuneaton and Bedworth,-1.477327,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-11-2019,52.535492,Daylight,Nuneaton and Bedworth,-1.422041,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-11-2019,52.465282,Darkness - lights lit,Nuneaton and Bedworth,-1.501858,1,3,Dry,Dual carriageway,Rural,Car
+2.01E+12,Serious,04-11-2019,52.513097,Darkness - lights lit,Nuneaton and Bedworth,-1.478035,2,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-11-2019,52.524628,Daylight,Nuneaton and Bedworth,-1.463306,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,05-11-2019,52.488443,Darkness - lights lit,Nuneaton and Bedworth,-1.473467,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,05-11-2019,52.521433,Darkness - lights lit,Nuneaton and Bedworth,-1.49297,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,06-11-2019,52.479073,Darkness - lighting unknown,Nuneaton and Bedworth,-1.489334,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,07-11-2019,52.534709,Daylight,Nuneaton and Bedworth,-1.465837,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,08-11-2019,52.537833,Daylight,Nuneaton and Bedworth,-1.422894,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,08-11-2019,52.525018,Darkness - lights lit,Nuneaton and Bedworth,-1.469935,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,06-11-2019,52.521448,Daylight,Nuneaton and Bedworth,-1.496507,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-11-2019,52.461737,Daylight,Nuneaton and Bedworth,-1.49292,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,13-11-2019,52.51537,Darkness - lights lit,Nuneaton and Bedworth,-1.504976,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,14-11-2019,52.477733,Daylight,Nuneaton and Bedworth,-1.470797,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,15-11-2019,52.522777,Daylight,Nuneaton and Bedworth,-1.451685,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-11-2019,52.486666,Darkness - no lighting,Nuneaton and Bedworth,-1.498966,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,16-11-2019,52.512239,Darkness - lights lit,Nuneaton and Bedworth,-1.467141,1,2,Dry,Single carriageway,Urban,Motorcycle over 125cc and up to 500cc
+2.01E+12,Slight,18-11-2019,52.522736,Darkness - lights lit,Nuneaton and Bedworth,-1.48249,3,2,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,18-11-2019,52.513008,Darkness - lights lit,Nuneaton and Bedworth,-1.478331,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,20-11-2019,52.463083,Darkness - lights lit,Nuneaton and Bedworth,-1.492315,1,2,Wet or damp,Roundabout,Rural,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,30-10-2019,52.500146,Daylight,Nuneaton and Bedworth,-1.456976,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,21-11-2019,52.534799,Daylight,Nuneaton and Bedworth,-1.465836,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,19-11-2019,52.465199,Daylight,Nuneaton and Bedworth,-1.482723,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-11-2019,52.533981,Daylight,Nuneaton and Bedworth,-1.46393,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-11-2019,52.463044,Daylight,Nuneaton and Bedworth,-1.483337,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-11-2019,52.520869,Darkness - lights lit,Nuneaton and Bedworth,-1.466889,1,1,Frost or ice,Dual carriageway,Urban,Car
+2.01E+12,Slight,26-11-2019,52.470223,Darkness - lights lit,Nuneaton and Bedworth,-1.480162,2,6,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,27-11-2019,52.536776,Darkness - lights lit,Nuneaton and Bedworth,-1.465812,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-11-2019,52.528381,Daylight,Nuneaton and Bedworth,-1.478149,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,29-11-2019,52.541295,Daylight,Nuneaton and Bedworth,-1.432286,1,4,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,30-11-2019,52.509369,Daylight,Nuneaton and Bedworth,-1.468649,1,2,Wet or damp,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Serious,30-11-2019,52.499449,Daylight,Nuneaton and Bedworth,-1.48188,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-11-2019,52.469876,Darkness - lights lit,Nuneaton and Bedworth,-1.504161,2,1,Wet or damp,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,29-11-2019,52.514669,Daylight,Nuneaton and Bedworth,-1.467701,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,01-12-2019,52.522512,Darkness - lights lit,Nuneaton and Bedworth,-1.47247,1,1,Wet or damp,Single carriageway,Urban,Motorcycle over 125cc and up to 500cc
+2.01E+12,Slight,01-12-2019,52.495723,Darkness - no lighting,Nuneaton and Bedworth,-1.433904,1,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,04-12-2019,52.513166,Darkness - lights lit,Nuneaton and Bedworth,-1.473319,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,04-12-2019,52.488312,Darkness - no lighting,Nuneaton and Bedworth,-1.484367,1,2,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,28-11-2019,52.498148,Daylight,Nuneaton and Bedworth,-1.47232,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,06-12-2019,52.529869,Darkness - lights lit,Nuneaton and Bedworth,-1.430517,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,07-12-2019,52.475566,Daylight,Nuneaton and Bedworth,-1.48908,1,1,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,09-12-2019,52.522331,Darkness - lights lit,Nuneaton and Bedworth,-1.472325,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,10-12-2019,52.474824,Darkness - lights lit,Nuneaton and Bedworth,-1.504989,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,11-12-2019,52.524202,Darkness - lights lit,Nuneaton and Bedworth,-1.510035,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,12-12-2019,52.496259,Daylight,Nuneaton and Bedworth,-1.433308,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,12-12-2019,52.522505,Darkness - lights lit,Nuneaton and Bedworth,-1.470849,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,12-12-2019,52.525534,Darkness - lights lit,Nuneaton and Bedworth,-1.464769,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,14-12-2019,52.512894,Daylight,Nuneaton and Bedworth,-1.452987,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,18-12-2019,52.519961,Darkness - lighting unknown,Nuneaton and Bedworth,-1.445383,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,18-12-2019,52.463364,Darkness - no lighting,Nuneaton and Bedworth,-1.494815,1,1,Dry,Dual carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,18-12-2019,52.497612,Darkness - lights lit,Nuneaton and Bedworth,-1.47321,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,19-12-2019,52.515387,Daylight,Nuneaton and Bedworth,-1.467398,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,21-12-2019,52.520946,Daylight,Nuneaton and Bedworth,-1.48428,1,1,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,21-12-2019,52.475682,Daylight,Nuneaton and Bedworth,-1.47465,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,21-12-2019,52.462364,Darkness - lights lit,Nuneaton and Bedworth,-1.492324,1,2,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,21-12-2019,52.476016,Darkness - no lighting,Nuneaton and Bedworth,-1.489222,1,2,Dry,Dual carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,21-12-2019,52.52193,Darkness - lights lit,Nuneaton and Bedworth,-1.504313,2,4,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-12-2019,52.519965,Darkness - no lighting,Nuneaton and Bedworth,-1.552675,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,29-12-2019,52.522658,Darkness - lights lit,Nuneaton and Bedworth,-1.506368,1,1,Wet or damp,Single carriageway,Urban,Minibus (8 - 16 passenger seats)
+2.01E+12,Slight,29-12-2019,52.535849,Darkness - lights lit,Nuneaton and Bedworth,-1.421594,1,3,Wet or damp,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Fatal,30-12-2019,52.48346,Daylight,Nuneaton and Bedworth,-1.426404,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,31-12-2019,52.530022,Daylight,Nuneaton and Bedworth,-1.483436,1,2,Dry,Single carriageway,Urban,Car
 200820D006403,Slight,01-01-2020,52.476111,Daylight,Birmingham,-1.839633,5,2,Dry,Single carriageway,Urban,Car
 200820D009103,Slight,06-01-2020,52.473614,Darkness - lights lit,Birmingham,-1.855394,1,1,Wet or damp,Single carriageway,Urban,Car
 200820D011801,Serious,02-01-2020,52.4909,Darkness - lights lit,Birmingham,-1.877577,1,1,Dry,Dual carriageway,Urban,Car
@@ -17337,6 +17664,285 @@ Index,Accident_Severity,Accident Date,Latitude,Light_Conditions,District Area,Lo
 2.01E+12,Slight,30-12-2020,52.340017,Daylight,Warwick,-1.516624,1,2,Dry,Single carriageway,Rural,Car
 2.01E+12,Slight,04-12-2020,52.258218,Daylight,Warwick,-1.618605,1,2,Wet or damp,Dual carriageway,Rural,Car
 2.01E+12,Slight,31-12-2020,52.24037,Darkness - no lighting,Warwick,-1.554173,3,2,Wet or damp,Slip road,Rural,Car
+2.01E+12,Slight,04-01-2020,52.478745,Daylight,Nuneaton and Bedworth,-1.475939,1,2,Dry,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,04-01-2020,52.491089,Daylight,Nuneaton and Bedworth,-1.482272,1,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,07-01-2020,52.49324,Darkness - no lighting,Nuneaton and Bedworth,-1.480627,1,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,09-01-2020,52.527293,Darkness - lights lit,Nuneaton and Bedworth,-1.437036,2,3,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,09-01-2020,52.522602,Darkness - lights lit,Nuneaton and Bedworth,-1.472469,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,09-01-2020,52.463852,Darkness - lights lit,Nuneaton and Bedworth,-1.483034,1,4,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,11-01-2020,52.475309,Daylight,Nuneaton and Bedworth,-1.492175,2,2,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,11-01-2020,52.49708,Darkness - lights lit,Nuneaton and Bedworth,-1.474837,1,1,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,12-01-2020,52.50414,Daylight,Nuneaton and Bedworth,-1.485655,1,2,Frost or ice,Single carriageway,Rural,Car
+2.01E+12,Slight,11-01-2020,52.52737,Darkness - lights lit,Nuneaton and Bedworth,-1.515454,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,12-01-2020,52.529256,Darkness - lights lit,Nuneaton and Bedworth,-1.493469,1,1,Dry,Single carriageway,Urban,Motorcycle over 125cc and up to 500cc
+2.01E+12,Slight,14-01-2020,52.524758,Daylight,Nuneaton and Bedworth,-1.53656,1,2,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,15-01-2020,52.468517,Darkness - no lighting,Nuneaton and Bedworth,-1.523461,1,2,Flood over 3cm. deep,Dual carriageway,Rural,Car
+2.01E+12,Slight,15-01-2020,52.515363,Darkness - lights lit,Nuneaton and Bedworth,-1.503355,1,5,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,18-01-2020,52.514669,Darkness - lights lit,Nuneaton and Bedworth,-1.467701,2,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,19-01-2020,52.53372,Daylight,Nuneaton and Bedworth,-1.465849,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,19-01-2020,52.502661,Daylight,Nuneaton and Bedworth,-1.437351,1,2,Wet or damp,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,19-01-2020,52.522647,Darkness - lights lit,Nuneaton and Bedworth,-1.482638,2,1,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,19-01-2020,52.522936,Darkness - lights lit,Nuneaton and Bedworth,-1.508281,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,20-01-2020,52.532361,Darkness - lights lit,Nuneaton and Bedworth,-1.425325,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,13-01-2020,52.522167,Darkness - lights lit,Nuneaton and Bedworth,-1.475864,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,21-01-2020,52.530343,Daylight,Nuneaton and Bedworth,-1.454834,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,21-01-2020,52.511444,Daylight,Nuneaton and Bedworth,-1.450648,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-01-2020,52.463224,Darkness - lights lit,Nuneaton and Bedworth,-1.483335,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-01-2020,52.532125,Daylight,Nuneaton and Bedworth,-1.49152,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,29-01-2020,52.48296,Daylight,Nuneaton and Bedworth,-1.47368,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,31-01-2020,52.514223,Darkness - lights lit,Nuneaton and Bedworth,-1.468443,3,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,01-02-2020,52.459093,Daylight,Nuneaton and Bedworth,-1.484267,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-02-2020,52.520759,Darkness - lighting unknown,Nuneaton and Bedworth,-1.462617,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-02-2020,52.50125,Daylight,Nuneaton and Bedworth,-1.482742,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,31-01-2020,52.5176,Darkness - lights lit,Nuneaton and Bedworth,-1.479898,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,07-02-2020,52.525018,Daylight,Nuneaton and Bedworth,-1.469935,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-02-2020,52.488983,Daylight,Nuneaton and Bedworth,-1.473461,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,08-02-2020,52.456369,Daylight,Nuneaton and Bedworth,-1.45825,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,08-02-2020,52.52874,Daylight,Nuneaton and Bedworth,-1.438786,1,2,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,11-02-2020,52.478089,Daylight,Nuneaton and Bedworth,-1.431333,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,11-02-2020,52.5147,Daylight,Nuneaton and Bedworth,-1.45488,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-02-2020,52.513129,Darkness - lights lit,Nuneaton and Bedworth,-1.485403,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,13-02-2020,52.476043,Darkness - lights lit,Nuneaton and Bedworth,-1.417225,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-02-2020,52.526675,Darkness - lights lit,Nuneaton and Bedworth,-1.458712,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-02-2020,52.516833,Darkness - lights lit,Nuneaton and Bedworth,-1.469149,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-02-2020,52.477138,Daylight,Nuneaton and Bedworth,-1.42045,1,2,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,19-02-2020,52.512765,Darkness - lights lit,Nuneaton and Bedworth,-1.444589,1,2,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,20-02-2020,52.477934,Daylight,Nuneaton and Bedworth,-1.475654,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,20-02-2020,52.523918,Daylight,Nuneaton and Bedworth,-1.465379,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,20-02-2020,52.520606,Daylight,Nuneaton and Bedworth,-1.468514,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-02-2020,52.464916,Darkness - lights lit,Nuneaton and Bedworth,-1.50039,2,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,21-02-2020,52.5119,Darkness - lights lit,Nuneaton and Bedworth,-1.471713,2,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,21-02-2020,52.513894,Darkness - lights lit,Nuneaton and Bedworth,-1.475373,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Serious,22-02-2020,52.518802,Daylight,Nuneaton and Bedworth,-1.467209,1,2,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,17-02-2020,52.526738,Daylight,Nuneaton and Bedworth,-1.472567,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,23-02-2020,52.479407,Darkness - lights lit,Nuneaton and Bedworth,-1.483293,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-02-2020,52.512623,Darkness - lights lit,Nuneaton and Bedworth,-1.452843,1,3,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,26-02-2020,52.478892,Daylight,Nuneaton and Bedworth,-1.468575,2,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,27-02-2020,52.465436,Daylight,Nuneaton and Bedworth,-1.495821,2,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,27-02-2020,52.487952,Daylight,Nuneaton and Bedworth,-1.484371,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Serious,29-02-2020,52.534566,Daylight,Nuneaton and Bedworth,-1.516407,3,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,29-02-2020,52.522165,Darkness - lights lit,Nuneaton and Bedworth,-1.475275,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,01-03-2020,52.47916,Darkness - lights lit,Nuneaton and Bedworth,-1.488597,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,03-03-2020,52.531139,Daylight,Nuneaton and Bedworth,-1.492268,1,1,Wet or damp,Single carriageway,Urban,Motorcycle over 125cc and up to 500cc
+2.01E+12,Slight,05-03-2020,52.478498,Daylight,Nuneaton and Bedworth,-1.46107,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-02-2020,52.528462,Daylight,Nuneaton and Bedworth,-1.437168,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,05-03-2020,52.520486,Daylight,Nuneaton and Bedworth,-1.502855,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-03-2020,52.46415,Daylight,Nuneaton and Bedworth,-1.510702,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,10-03-2020,52.537025,Daylight,Nuneaton and Bedworth,-1.461239,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-03-2020,52.537091,Daylight,Nuneaton and Bedworth,-1.518296,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,16-03-2020,52.523929,Darkness - lights lit,Nuneaton and Bedworth,-1.509449,1,4,Wet or damp,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,17-03-2020,52.453107,Daylight,Nuneaton and Bedworth,-1.514356,1,1,Dry,Roundabout,Rural,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,20-03-2020,52.514502,Daylight,Nuneaton and Bedworth,-1.47065,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-03-2020,52.535682,Daylight,Nuneaton and Bedworth,-1.525388,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-03-2020,52.509488,Daylight,Nuneaton and Bedworth,-1.475278,1,3,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,10-03-2020,52.461352,Daylight,Nuneaton and Bedworth,-1.530309,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,28-03-2020,52.515118,Daylight,Nuneaton and Bedworth,-1.447949,1,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,29-03-2020,52.521307,Darkness - lights lit,Nuneaton and Bedworth,-1.464526,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,31-03-2020,52.515344,Darkness - lights lit,Nuneaton and Bedworth,-1.498787,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,31-03-2020,52.497438,Daylight,Nuneaton and Bedworth,-1.474391,1,2,Dry,Dual carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,01-04-2020,52.486876,Daylight,Nuneaton and Bedworth,-1.48512,1,3,Dry,Dual carriageway,Urban,Car
+2.01E+12,Serious,02-04-2020,52.468,Darkness - lights lit,Nuneaton and Bedworth,-1.485929,3,1,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,04-04-2020,52.532459,Daylight,Nuneaton and Bedworth,-1.465275,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,07-04-2020,52.519361,Daylight,Nuneaton and Bedworth,-1.471476,1,1,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,06-03-2020,52.497885,Daylight,Nuneaton and Bedworth,-1.473943,1,2,Dry,Dual carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,07-04-2020,52.47916,Daylight,Nuneaton and Bedworth,-1.488744,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,08-04-2020,52.535587,Daylight,Nuneaton and Bedworth,-1.50239,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-04-2020,52.50049,Daylight,Nuneaton and Bedworth,-1.416018,1,1,Dry,Single carriageway,Rural,Motorcycle 125cc and under
+2.01E+12,Slight,11-04-2020,52.49644,Daylight,Nuneaton and Bedworth,-1.472488,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,15-04-2020,52.461297,Daylight,Nuneaton and Bedworth,-1.494985,2,1,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,16-04-2020,52.527817,Daylight,Nuneaton and Bedworth,-1.452802,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,17-04-2020,52.520764,Daylight,Nuneaton and Bedworth,-1.483987,1,1,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Serious,18-04-2020,52.479234,Daylight,Nuneaton and Bedworth,-1.484915,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,18-04-2020,52.51269,Daylight,Nuneaton and Bedworth,-1.46743,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,20-04-2020,52.497879,Darkness - no lighting,Nuneaton and Bedworth,-1.472471,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,22-04-2020,52.461744,Daylight,Nuneaton and Bedworth,-1.494539,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,18-04-2020,52.521411,Daylight,Nuneaton and Bedworth,-1.487959,1,1,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,19-04-2020,52.513763,Daylight,Nuneaton and Bedworth,-1.466091,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,18-04-2020,52.517439,Daylight,Nuneaton and Bedworth,-1.505247,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-04-2020,52.51313,Darkness - lights lit,Nuneaton and Bedworth,-1.48555,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,24-04-2020,52.515931,Daylight,Nuneaton and Bedworth,-1.468423,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,14-04-2020,52.451472,Darkness - lights lit,Nuneaton and Bedworth,-1.510401,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,25-04-2020,52.51576,Daylight,Nuneaton and Bedworth,-1.51234,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,27-04-2020,52.473716,Daylight,Nuneaton and Bedworth,-1.477176,1,1,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,28-04-2020,52.486666,Darkness - no lighting,Nuneaton and Bedworth,-1.498966,1,1,Flood over 3cm. deep,Single carriageway,Rural,Car
+2.01E+12,Slight,30-04-2020,52.515795,Daylight,Nuneaton and Bedworth,-1.458404,1,2,Wet or damp,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Serious,30-04-2020,52.461338,Darkness - lights lit,Nuneaton and Bedworth,-1.483652,3,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,03-05-2020,52.519401,Daylight,Nuneaton and Bedworth,-1.460423,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-05-2020,52.52087,Darkness - lights lit,Nuneaton and Bedworth,-1.467184,1,1,Wet or damp,Roundabout,Urban,Motorcycle over 500cc
+2.01E+12,Slight,05-05-2020,52.494404,Daylight,Nuneaton and Bedworth,-1.479582,1,1,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,04-05-2020,52.532474,Darkness - lights lit,Nuneaton and Bedworth,-1.510385,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-05-2020,52.464505,Daylight,Nuneaton and Bedworth,-1.488325,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-05-2020,52.526049,Daylight,Nuneaton and Bedworth,-1.459457,5,2,Dry,One way street,Urban,Car
+2.01E+12,Slight,07-05-2020,52.513472,Daylight,Nuneaton and Bedworth,-1.461527,3,4,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-05-2020,52.51356,Daylight,Nuneaton and Bedworth,-1.461084,1,1,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Serious,09-05-2020,52.473894,Daylight,Nuneaton and Bedworth,-1.497491,1,1,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,10-05-2020,52.527742,Daylight,Nuneaton and Bedworth,-1.456193,1,1,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,06-05-2020,52.537087,Daylight,Nuneaton and Bedworth,-1.517116,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,12-05-2020,52.461607,Daylight,Nuneaton and Bedworth,-1.483501,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-05-2020,52.461561,Daylight,Nuneaton and Bedworth,-1.493805,2,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,14-05-2020,52.469439,Daylight,Nuneaton and Bedworth,-1.529192,2,2,Dry,Dual carriageway,Rural,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,15-05-2020,52.505505,Daylight,Nuneaton and Bedworth,-1.533079,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,18-05-2020,52.508348,Darkness - lights lit,Nuneaton and Bedworth,-1.461589,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-05-2020,52.513539,Daylight,Nuneaton and Bedworth,-1.476409,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-05-2020,52.519229,Daylight,Nuneaton and Bedworth,-1.482384,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-05-2020,52.551312,Daylight,Nuneaton and Bedworth,-1.459589,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,24-05-2020,52.521383,Daylight,Nuneaton and Bedworth,-1.50255,1,2,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Serious,28-05-2020,52.516993,Daylight,Nuneaton and Bedworth,-1.445126,3,3,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,28-05-2020,52.48885,Daylight,Nuneaton and Bedworth,-1.484066,2,2,Wet or damp,Dual carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Fatal,01-06-2020,52.495634,Darkness - lights lit,Nuneaton and Bedworth,-1.473087,1,1,Dry,Single carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Serious,31-05-2020,52.523475,Daylight,Nuneaton and Bedworth,-1.508275,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,03-06-2020,52.469451,Daylight,Nuneaton and Bedworth,-1.488709,1,2,Wet or damp,Dual carriageway,Rural,Motorcycle over 500cc
+2.01E+12,Serious,04-06-2020,52.48314,Darkness - lights lit,Nuneaton and Bedworth,-1.473678,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-06-2020,52.528486,Daylight,Nuneaton and Bedworth,-1.44218,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Fatal,06-06-2020,52.529139,Daylight,Nuneaton and Bedworth,-1.508211,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-06-2020,52.48326,Daylight,Nuneaton and Bedworth,-1.48045,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,08-06-2020,52.517736,Daylight,Nuneaton and Bedworth,-1.470022,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-06-2020,52.530752,Daylight,Nuneaton and Bedworth,-1.427262,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-06-2020,52.48224,Daylight,Nuneaton and Bedworth,-1.473394,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Serious,10-06-2020,52.457837,Daylight,Nuneaton and Bedworth,-1.505916,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-06-2020,52.500142,Daylight,Nuneaton and Bedworth,-1.456092,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,14-06-2020,52.531307,Darkness - lights lit,Nuneaton and Bedworth,-1.489613,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-06-2020,52.473962,Daylight,Nuneaton and Bedworth,-1.492485,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-06-2020,52.498154,Daylight,Nuneaton and Bedworth,-1.434757,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Serious,17-06-2020,52.515847,Daylight,Nuneaton and Bedworth,-1.533854,2,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,18-06-2020,52.526398,Daylight,Nuneaton and Bedworth,-1.476993,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-06-2020,52.525201,Daylight,Nuneaton and Bedworth,-1.512677,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,19-06-2020,52.517457,Darkness - lights lit,Nuneaton and Bedworth,-1.448215,1,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,19-06-2020,52.513689,Darkness - lights lit,Nuneaton and Bedworth,-1.45003,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-06-2020,52.514161,Darkness - lights lit,Nuneaton and Bedworth,-1.474633,1,2,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,23-06-2020,52.515428,Daylight,Nuneaton and Bedworth,-1.49746,5,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,23-06-2020,52.469272,Daylight,Nuneaton and Bedworth,-1.488858,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,25-06-2020,52.476991,Daylight,Nuneaton and Bedworth,-1.427372,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Serious,29-06-2020,52.535697,Daylight,Nuneaton and Bedworth,-1.446217,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-07-2020,52.521597,Daylight,Nuneaton and Bedworth,-1.48943,2,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,02-07-2020,52.509488,Daylight,Nuneaton and Bedworth,-1.475131,1,2,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,02-07-2020,52.48341,Daylight,Nuneaton and Bedworth,-1.473822,3,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-07-2020,52.522361,Daylight,Nuneaton and Bedworth,-1.478957,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-07-2020,52.509846,Daylight,Nuneaton and Bedworth,-1.474832,1,2,Dry,Dual carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Serious,07-07-2020,52.481679,Daylight,Nuneaton and Bedworth,-1.468689,1,2,Wet or damp,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,10-07-2020,52.488021,Daylight,Nuneaton and Bedworth,-1.47951,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,11-07-2020,52.530471,Darkness - lights lit,Nuneaton and Bedworth,-1.463235,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,09-07-2020,52.499051,Daylight,Nuneaton and Bedworth,-1.47334,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,12-07-2020,52.520783,Daylight,Nuneaton and Bedworth,-1.467922,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-07-2020,52.522028,Daylight,Nuneaton and Bedworth,-1.464812,1,1,Dry,One way street,Urban,Car
+2.01E+12,Slight,10-07-2020,52.479525,Daylight,Nuneaton and Bedworth,-1.48977,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-07-2020,52.52614,Daylight,Nuneaton and Bedworth,-1.459603,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-07-2020,52.515381,Daylight,Nuneaton and Bedworth,-1.507628,4,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,15-07-2020,52.536965,Daylight,Nuneaton and Bedworth,-1.467727,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-07-2020,52.50892,Darkness - lights lit,Nuneaton and Bedworth,-1.468655,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-07-2020,52.51909,Daylight,Nuneaton and Bedworth,-1.471332,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,18-07-2020,52.505035,Daylight,Nuneaton and Bedworth,-1.464429,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,20-07-2020,52.504715,Darkness - lights lit,Nuneaton and Bedworth,-1.473273,10,5,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-07-2020,52.510479,Daylight,Nuneaton and Bedworth,-1.475709,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-07-2020,52.522323,Daylight,Nuneaton and Bedworth,-1.490896,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-08-2020,52.52069,Daylight,Nuneaton and Bedworth,-1.467186,1,2,Wet or damp,Roundabout,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,06-08-2020,52.512926,Darkness - lights lit,Nuneaton and Bedworth,-1.4801,1,2,Wet or damp,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Serious,07-08-2020,52.512928,Daylight,Nuneaton and Bedworth,-1.480542,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-08-2020,52.458099,Darkness - no lighting,Nuneaton and Bedworth,-1.483248,1,2,Wet or damp,Dual carriageway,Urban,Car
+2.01E+12,Slight,10-08-2020,52.533174,Daylight,Nuneaton and Bedworth,-1.527921,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,29-07-2020,52.499143,Daylight,Nuneaton and Bedworth,-1.473781,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,12-08-2020,52.524634,Daylight,Nuneaton and Bedworth,-1.464633,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-08-2020,52.528187,Daylight,Nuneaton and Bedworth,-1.517361,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,15-08-2020,52.465468,Daylight,Nuneaton and Bedworth,-1.482426,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-08-2020,52.527023,Daylight,Nuneaton and Bedworth,-1.437039,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,20-08-2020,52.47154,Daylight,Nuneaton and Bedworth,-1.434067,2,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,22-08-2020,52.463894,Daylight,Nuneaton and Bedworth,-1.492748,1,1,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,22-08-2020,52.519932,Darkness - lights lit,Nuneaton and Bedworth,-1.521136,1,4,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-08-2020,52.496531,Daylight,Nuneaton and Bedworth,-1.472634,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,24-08-2020,52.474163,Darkness - lights lit,Nuneaton and Bedworth,-1.476582,1,2,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,25-08-2020,52.465276,Daylight,Nuneaton and Bedworth,-1.479631,1,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,26-08-2020,52.497438,Daylight,Nuneaton and Bedworth,-1.474391,4,3,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,24-08-2020,52.463266,Daylight,Nuneaton and Bedworth,-1.492902,2,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,29-08-2020,52.49743,Daylight,Nuneaton and Bedworth,-1.47277,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,28-08-2020,52.476618,Daylight,Nuneaton and Bedworth,-1.424432,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-08-2020,52.530762,Daylight,Nuneaton and Bedworth,-1.488292,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,31-08-2020,52.463356,Daylight,Nuneaton and Bedworth,-1.492901,3,3,Wet or damp,Dual carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,02-09-2020,52.50041,Daylight,Nuneaton and Bedworth,-1.436496,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,03-09-2020,52.525744,Daylight,Nuneaton and Bedworth,-1.471547,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-09-2020,52.479973,Daylight,Nuneaton and Bedworth,-1.489471,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,08-09-2020,52.527288,Daylight,Nuneaton and Bedworth,-1.475066,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-09-2020,52.47916,Darkness - lights lit,Nuneaton and Bedworth,-1.488744,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-09-2020,52.518715,Daylight,Nuneaton and Bedworth,-1.509507,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,09-09-2020,52.513706,Daylight,Nuneaton and Bedworth,-1.473607,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,11-09-2020,52.529347,Daylight,Nuneaton and Bedworth,-1.515137,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,13-09-2020,52.459466,Daylight,Nuneaton and Bedworth,-1.530623,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,15-09-2020,52.497885,Daylight,Nuneaton and Bedworth,-1.473796,2,2,Dry,Dual carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,16-09-2020,52.469744,Daylight,Nuneaton and Bedworth,-1.494153,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,16-09-2020,52.545394,Daylight,Nuneaton and Bedworth,-1.443588,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,18-09-2020,52.523368,Daylight,Nuneaton and Bedworth,-1.46288,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-09-2020,52.451969,Daylight,Nuneaton and Bedworth,-1.500095,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,21-09-2020,52.481476,Darkness - lights lit,Nuneaton and Bedworth,-1.46339,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-09-2020,52.516215,Daylight,Nuneaton and Bedworth,-1.492145,1,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,11-05-2020,52.508963,Darkness - lights lit,Nuneaton and Bedworth,-1.439186,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-09-2020,52.479346,Darkness - lights lit,Nuneaton and Bedworth,-1.4696,1,1,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,25-09-2020,52.475986,Darkness - lights lit,Nuneaton and Bedworth,-1.462132,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,27-09-2020,52.515357,Darkness - lights lit,Nuneaton and Bedworth,-1.501734,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-09-2020,52.479171,Daylight,Nuneaton and Bedworth,-1.4911,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-09-2020,52.455834,Daylight,Nuneaton and Bedworth,-1.45914,3,1,Dry,Single carriageway,Rural,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,18-09-2020,52.451472,Daylight,Nuneaton and Bedworth,-1.510401,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,30-09-2020,52.522422,Darkness - lights lit,Nuneaton and Bedworth,-1.472471,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,02-10-2020,52.531855,Daylight,Nuneaton and Bedworth,-1.512899,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,03-10-2020,52.515345,Daylight,Nuneaton and Bedworth,-1.498934,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-10-2020,52.519607,Daylight,Nuneaton and Bedworth,-1.553121,1,2,Dry,Single carriageway,Rural,Motorcycle 50cc and under
+2.01E+12,Slight,04-10-2020,52.463721,Daylight,Nuneaton and Bedworth,-1.494369,1,2,Dry,Roundabout,Rural,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,05-10-2020,52.507262,Daylight,Nuneaton and Bedworth,-1.480167,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-10-2020,52.47059,Daylight,Nuneaton and Bedworth,-1.502976,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,07-10-2020,52.522249,Daylight,Nuneaton and Bedworth,-1.474095,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,08-10-2020,52.4835,Darkness - lights lit,Nuneaton and Bedworth,-1.473673,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,09-10-2020,52.460457,Daylight,Nuneaton and Bedworth,-1.487783,1,1,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,10-10-2020,52.486591,Daylight,Nuneaton and Bedworth,-1.481442,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,13-10-2020,52.46807,Daylight,Nuneaton and Bedworth,-1.481365,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-10-2020,52.526934,Daylight,Nuneaton and Bedworth,-1.476397,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-10-2020,52.51537,Daylight,Nuneaton and Bedworth,-1.504976,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-10-2020,52.508875,Daylight,Nuneaton and Bedworth,-1.458783,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,14-10-2020,52.51368,Daylight,Nuneaton and Bedworth,-1.467713,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-10-2020,52.517553,Daylight,Nuneaton and Bedworth,-1.489772,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,17-10-2020,52.468871,Daylight,Nuneaton and Bedworth,-1.500198,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,20-10-2020,52.463044,Daylight,Nuneaton and Bedworth,-1.483337,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,23-10-2020,52.479156,Daylight,Nuneaton and Bedworth,-1.487713,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-10-2020,52.478719,Daylight,Nuneaton and Bedworth,-1.490663,1,2,Dry,Single carriageway,Urban,Motorcycle over 125cc and up to 500cc
+2.01E+12,Slight,24-10-2020,52.520321,Daylight,Nuneaton and Bedworth,-1.485319,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-10-2020,52.51485,Darkness - lights lit,Nuneaton and Bedworth,-1.467994,1,1,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,28-10-2020,52.525023,Darkness - lights lit,Nuneaton and Bedworth,-1.471114,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,29-10-2020,52.515671,Daylight,Nuneaton and Bedworth,-1.534887,2,2,Frost or ice,Single carriageway,Rural,Car
+2.01E+12,Slight,01-11-2020,52.463134,Darkness - lights lit,Nuneaton and Bedworth,-1.483336,1,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,06-11-2020,52.539296,Daylight,Nuneaton and Bedworth,-1.466371,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,07-11-2020,52.509309,Darkness - lights lit,Nuneaton and Bedworth,-1.475281,1,1,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,10-11-2020,52.502031,Daylight,Nuneaton and Bedworth,-1.437211,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,06-11-2020,52.486497,Darkness - lights lit,Nuneaton and Bedworth,-1.480559,1,1,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,12-11-2020,52.522915,Daylight,Nuneaton and Bedworth,-1.48234,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,12-11-2020,52.52978,Daylight,Nuneaton and Bedworth,-1.430666,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,11-11-2020,52.522082,Daylight,Nuneaton and Bedworth,-1.476897,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-11-2020,52.514939,Darkness - lights lit,Nuneaton and Bedworth,-1.467698,1,1,Wet or damp,Dual carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,15-11-2020,52.461607,Darkness - lights lit,Nuneaton and Bedworth,-1.483501,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,18-11-2020,52.520871,Daylight,Nuneaton and Bedworth,-1.467479,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Serious,20-11-2020,52.520609,Darkness - lights lit,Nuneaton and Bedworth,-1.469251,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,11-11-2020,52.512352,Darkness - lights lit,Nuneaton and Bedworth,-1.472297,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,22-11-2020,52.512077,Darkness - lights lit,Nuneaton and Bedworth,-1.471122,1,1,Wet or damp,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Serious,23-11-2020,52.509143,Daylight,Nuneaton and Bedworth,-1.521106,1,1,Wet or damp,Single carriageway,Rural,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,25-11-2020,52.496531,Daylight,Nuneaton and Bedworth,-1.472634,1,2,Dry,Single carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,25-11-2020,52.510052,Daylight,Nuneaton and Bedworth,-1.460537,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-11-2020,52.458189,Daylight,Nuneaton and Bedworth,-1.4831,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,27-11-2020,52.520607,Daylight,Nuneaton and Bedworth,-1.468661,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,30-11-2020,52.523969,Darkness - lights lit,Nuneaton and Bedworth,-1.541875,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,01-12-2020,52.51567,Darkness - no lighting,Nuneaton and Bedworth,-1.534593,2,2,Wet or damp,Single carriageway,Rural,Motorcycle over 500cc
+2.01E+12,Slight,02-12-2020,52.515348,Daylight,Nuneaton and Bedworth,-1.499818,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,09-12-2020,52.465924,Darkness - lights lit,Nuneaton and Bedworth,-1.505089,2,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,09-12-2020,52.487053,Darkness - lights lit,Nuneaton and Bedworth,-1.484382,1,1,Wet or damp,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,10-12-2020,52.522895,Darkness - lights lit,Nuneaton and Bedworth,-1.438566,1,1,Frost or ice,One way street,Rural,Car
+2.01E+12,Serious,25-11-2020,52.517421,Daylight,Nuneaton and Bedworth,-1.500974,1,1,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,13-12-2020,52.531289,Darkness - lights lit,Nuneaton and Bedworth,-1.528531,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Serious,14-12-2020,52.516995,Daylight,Nuneaton and Bedworth,-1.528684,2,1,Wet or damp,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,15-12-2020,52.462198,Darkness - lights lit,Nuneaton and Bedworth,-1.495417,1,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Serious,16-12-2020,52.478407,Darkness - lights lit,Nuneaton and Bedworth,-1.460777,1,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,19-12-2020,52.525744,Darkness - lights lit,Nuneaton and Bedworth,-1.513556,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,21-12-2020,52.542271,Darkness - lights lit,Nuneaton and Bedworth,-1.448493,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,21-12-2020,52.522733,Darkness - lights lit,Nuneaton and Bedworth,-1.4819,2,1,Wet or damp,One way street,Urban,Car
+2.01E+12,Slight,25-12-2020,52.519367,Daylight,Nuneaton and Bedworth,-1.472803,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-12-2020,52.541842,Darkness - no lighting,Nuneaton and Bedworth,-1.433901,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,29-12-2020,52.460911,Daylight,Nuneaton and Bedworth,-1.488955,2,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,29-12-2020,52.465237,Daylight,Nuneaton and Bedworth,-1.491408,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-11-2020,52.524982,Darkness - lights lit,Nuneaton and Bedworth,-1.462123,1,3,Dry,Single carriageway,Urban,Motorcycle 125cc and under
 200920D001101,Slight,02-01-2021,52.484763,Darkness - lights lit,Birmingham,-1.856683,4,2,Wet or damp,Single carriageway,Urban,Car
 200920D002502,Fatal,02-01-2021,52.525141,Daylight,Birmingham,-1.802605,1,1,Dry,Dual carriageway,Urban,Goods 7.5 tonnes mgw and over
 200920D002603,Slight,01-01-2021,52.460347,Darkness - lights lit,Birmingham,-1.766836,1,1,Frost or ice,Single carriageway,Urban,Car
@@ -24971,6 +25577,284 @@ Index,Accident_Severity,Accident Date,Latitude,Light_Conditions,District Area,Lo
 2.01E+12,Slight,14-12-2021,52.258927,Darkness - lights lit,Warwick,-1.615669,1,2,Wet or damp,Dual carriageway,Rural,Car
 2.01E+12,Slight,25-12-2021,52.365291,Daylight,Warwick,-1.541755,1,2,Wet or damp,Single carriageway,Rural,Car
 2.01E+12,Slight,31-12-2021,52.268206,Daylight,Warwick,-1.544955,1,1,Dry,Roundabout,Urban,Other vehicle
+2.01E+12,Slight,04-01-2021,52.467498,Darkness - no lighting,Nuneaton and Bedworth,-1.516112,1,1,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,06-01-2021,52.512945,Darkness - lights lit,Nuneaton and Bedworth,-1.484521,1,2,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,02-01-2021,52.513368,Daylight,Nuneaton and Bedworth,-1.458286,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,08-01-2021,52.515795,Daylight,Nuneaton and Bedworth,-1.458404,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,08-01-2021,52.473627,Darkness - lights lit,Nuneaton and Bedworth,-1.477325,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-01-2021,52.506535,Daylight,Nuneaton and Bedworth,-1.438922,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-01-2021,52.526688,Darkness - lights lit,Nuneaton and Bedworth,-1.461512,1,1,Frost or ice,One way street,Urban,Car
+2.01E+12,Slight,10-01-2021,52.521377,Darkness - lights lit,Nuneaton and Bedworth,-1.500929,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,12-01-2021,52.531855,Daylight,Nuneaton and Bedworth,-1.491523,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,08-01-2021,52.513888,Darkness - lights lit,Nuneaton and Bedworth,-1.4739,1,2,Dry,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,13-01-2021,52.497611,Darkness - lights lit,Nuneaton and Bedworth,-1.472916,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,14-01-2021,52.46809,Daylight,Nuneaton and Bedworth,-1.485928,1,1,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,03-01-2021,52.494225,Darkness - lights lit,Nuneaton and Bedworth,-1.479879,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,15-01-2021,52.476645,Daylight,Nuneaton and Bedworth,-1.489068,2,2,Wet or damp,Dual carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,15-01-2021,52.45838,Daylight,Nuneaton and Bedworth,-1.485747,1,1,Dry,Roundabout,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,15-01-2021,52.498606,Darkness - lights lit,Nuneaton and Bedworth,-1.47423,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,17-01-2021,52.522052,Darkness - lights lit,Nuneaton and Bedworth,-1.511975,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,17-01-2021,52.50908,Darkness - lights lit,Nuneaton and Bedworth,-1.444783,1,2,Wet or damp,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,14-01-2021,52.532018,Daylight,Nuneaton and Bedworth,-1.44759,1,1,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,22-01-2021,52.539836,Darkness - no lighting,Nuneaton and Bedworth,-1.428029,1,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,22-01-2021,52.458824,Daylight,Nuneaton and Bedworth,-1.484564,1,2,Dry,Dual carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,23-01-2021,52.474666,Daylight,Nuneaton and Bedworth,-1.488943,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,25-01-2021,52.522736,Darkness - lighting unknown,Nuneaton and Bedworth,-1.482637,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,25-01-2021,52.463625,Daylight,Nuneaton and Bedworth,-1.492898,5,3,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,26-01-2021,52.53447,Daylight,Nuneaton and Bedworth,-1.453014,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,18-01-2021,52.471206,Darkness - lights lit,Nuneaton and Bedworth,-1.478825,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,27-01-2021,52.477449,Darkness - no lighting,Nuneaton and Bedworth,-1.410728,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,28-01-2021,52.496531,Darkness - lights lit,Nuneaton and Bedworth,-1.472634,1,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Serious,02-02-2021,52.522241,Daylight,Nuneaton and Bedworth,-1.472326,1,1,Snow,Single carriageway,Urban,Car
+2.01E+12,Slight,04-02-2021,52.513853,Daylight,Nuneaton and Bedworth,-1.466238,1,2,Snow,Single carriageway,Urban,Car
+2.01E+12,Slight,31-01-2021,52.520602,Daylight,Nuneaton and Bedworth,-1.46763,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,09-02-2021,52.511579,Daylight,Nuneaton and Bedworth,-1.440921,2,2,Frost or ice,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Serious,09-02-2021,52.520216,Darkness - lights lit,Nuneaton and Bedworth,-1.461739,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,09-02-2021,52.478075,Daylight,Nuneaton and Bedworth,-1.447235,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,11-02-2021,52.520669,Darkness - lighting unknown,Nuneaton and Bedworth,-1.46247,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-02-2021,52.496531,Darkness - lights lit,Nuneaton and Bedworth,-1.472634,1,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,09-02-2021,52.528604,Darkness - lighting unknown,Nuneaton and Bedworth,-1.448222,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-02-2021,52.52328,Daylight,Nuneaton and Bedworth,-1.463323,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,17-02-2021,52.462006,Daylight,Nuneaton and Bedworth,-1.492622,2,2,Dry,Roundabout,Rural,Car
+2.01E+12,Serious,22-02-2021,52.518349,Daylight,Nuneaton and Bedworth,-1.50789,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-02-2021,52.525704,Daylight,Nuneaton and Bedworth,-1.443247,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-02-2021,52.513468,Daylight,Nuneaton and Bedworth,-1.460643,1,2,Dry,Single carriageway,Rural,Bus or coach (17 or more pass seats)
+2.01E+12,Serious,25-02-2021,52.478127,Darkness - lights lit,Nuneaton and Bedworth,-1.458572,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-03-2021,52.508436,Darkness - lights lit,Nuneaton and Bedworth,-1.461146,1,2,Dry,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,03-03-2021,52.520691,Darkness - lights lit,Nuneaton and Bedworth,-1.467334,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,05-03-2021,52.513616,Daylight,Nuneaton and Bedworth,-1.473461,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-03-2021,52.478115,Daylight,Nuneaton and Bedworth,-1.475799,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-03-2021,52.53336,Daylight,Nuneaton and Bedworth,-1.465854,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,08-03-2021,52.515672,Daylight,Nuneaton and Bedworth,-1.535035,2,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,10-03-2021,52.473109,Darkness - lights lit,Nuneaton and Bedworth,-1.482336,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,11-03-2021,52.512934,Daylight,Nuneaton and Bedworth,-1.481868,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-03-2021,52.480005,Daylight,Nuneaton and Bedworth,-1.476218,2,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,12-03-2021,52.509219,Daylight,Nuneaton and Bedworth,-1.475282,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Serious,12-03-2021,52.478686,Darkness - lights lit,Nuneaton and Bedworth,-1.462835,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-03-2021,52.517108,Daylight,Nuneaton and Bedworth,-1.490809,1,4,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-03-2021,52.515356,Daylight,Nuneaton and Bedworth,-1.501587,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-03-2021,52.469535,Daylight,Nuneaton and Bedworth,-1.530663,2,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,20-03-2021,52.461561,Daylight,Nuneaton and Bedworth,-1.493805,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,19-03-2021,52.477458,Daylight,Nuneaton and Bedworth,-1.430899,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-03-2021,52.482324,Daylight,Nuneaton and Bedworth,-1.472068,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-03-2021,52.456528,Darkness - lights lit,Nuneaton and Bedworth,-1.473406,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,31-03-2021,52.515444,Daylight,Nuneaton and Bedworth,-1.501144,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-04-2021,52.536832,Darkness - lights lit,Nuneaton and Bedworth,-1.420254,1,2,Dry,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,02-04-2021,52.496531,Daylight,Nuneaton and Bedworth,-1.472634,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,02-04-2021,52.519161,Daylight,Nuneaton and Bedworth,-1.508618,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-04-2021,52.473888,Daylight,Nuneaton and Bedworth,-1.496166,3,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-04-2021,52.45999,Daylight,Nuneaton and Bedworth,-1.483815,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,04-04-2021,52.469048,Daylight,Nuneaton and Bedworth,-1.499607,5,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-04-2021,52.515378,Daylight,Nuneaton and Bedworth,-1.506891,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-04-2021,52.524686,Daylight,Nuneaton and Bedworth,-1.456378,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,10-04-2021,52.471719,Daylight,Nuneaton and Bedworth,-1.493541,1,2,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Fatal,14-04-2021,52.467121,Darkness - no lighting,Nuneaton and Bedworth,-1.5117,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,15-04-2021,52.49653,Daylight,Nuneaton and Bedworth,-1.472487,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,16-04-2021,52.48296,Daylight,Nuneaton and Bedworth,-1.47368,1,2,Wet or damp,Single carriageway,Urban,Agricultural vehicle
+2.01E+12,Slight,17-04-2021,52.515804,Daylight,Nuneaton and Bedworth,-1.501139,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,17-04-2021,52.464279,Darkness - no lighting,Nuneaton and Bedworth,-1.498631,4,1,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,21-04-2021,52.48377,Daylight,Nuneaton and Bedworth,-1.473817,1,3,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,21-04-2021,52.47766,Daylight,Nuneaton and Bedworth,-1.454749,1,1,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Serious,22-04-2021,52.453285,Daylight,Nuneaton and Bedworth,-1.513913,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,23-04-2021,52.521575,Daylight,Nuneaton and Bedworth,-1.484272,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-04-2021,52.515349,Darkness - lights lit,Nuneaton and Bedworth,-1.499966,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-04-2021,52.499142,Daylight,Nuneaton and Bedworth,-1.473634,1,2,Dry,Dual carriageway,Urban,Other vehicle
+2.01E+12,Slight,27-04-2021,52.463084,Daylight,Nuneaton and Bedworth,-1.492463,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,28-04-2021,52.519197,Daylight,Nuneaton and Bedworth,-1.475015,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-04-2021,52.465994,Daylight,Nuneaton and Bedworth,-1.479476,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-04-2021,52.521142,Daylight,Nuneaton and Bedworth,-1.46777,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-04-2021,52.501758,Darkness - no lighting,Nuneaton and Bedworth,-1.475518,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,30-04-2021,52.466038,Daylight,Nuneaton and Bedworth,-1.510829,1,2,Wet or damp,Single carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,01-05-2021,52.463535,Daylight,Nuneaton and Bedworth,-1.492899,1,2,Dry,Roundabout,Rural,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,05-05-2021,52.465281,Daylight,Nuneaton and Bedworth,-1.501711,1,3,Dry,Dual carriageway,Rural,Car
+2.01E+12,Serious,09-05-2021,52.478779,Daylight,Nuneaton and Bedworth,-1.46357,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-05-2021,52.525011,Daylight,Nuneaton and Bedworth,-1.468461,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-05-2021,52.535682,Daylight,Nuneaton and Bedworth,-1.525388,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-05-2021,52.52068,Darkness - lights lit,Nuneaton and Bedworth,-1.485167,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,11-05-2021,52.511626,Daylight,Nuneaton and Bedworth,-1.451087,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,11-05-2021,52.512929,Daylight,Nuneaton and Bedworth,-1.48069,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,13-05-2021,52.524197,Daylight,Nuneaton and Bedworth,-1.467291,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-05-2021,52.507302,Darkness - lights lit,Nuneaton and Bedworth,-1.468822,2,2,Wet or damp,Roundabout,Urban,Agricultural vehicle
+2.01E+12,Slight,11-05-2021,52.493685,Daylight,Nuneaton and Bedworth,-1.440264,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,19-05-2021,52.461447,Daylight,Nuneaton and Bedworth,-1.509408,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,13-05-2021,52.530791,Daylight,Nuneaton and Bedworth,-1.454534,1,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,20-05-2021,52.474778,Daylight,Nuneaton and Bedworth,-1.515443,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,23-05-2021,52.509725,Darkness - lights lit,Nuneaton and Bedworth,-1.448164,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-05-2021,52.515425,Daylight,Nuneaton and Bedworth,-1.496575,1,3,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,27-05-2021,52.476403,Daylight,Nuneaton and Bedworth,-1.474936,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-05-2021,52.519119,Daylight,Nuneaton and Bedworth,-1.498449,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-05-2021,52.522081,Daylight,Nuneaton and Bedworth,-1.47675,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-05-2021,52.458999,Daylight,Nuneaton and Bedworth,-1.504284,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-05-2021,52.465922,Daylight,Nuneaton and Bedworth,-1.5045,1,2,Dry,Dual carriageway,Rural,Motorcycle over 500cc
+2.01E+12,Slight,28-05-2021,52.465102,Daylight,Nuneaton and Bedworth,-1.50186,2,2,Dry,Dual carriageway,Rural,Agricultural vehicle
+2.01E+12,Slight,29-05-2021,52.510027,Daylight,Nuneaton and Bedworth,-1.474977,2,3,Dry,Slip road,Urban,Car
+2.01E+12,Serious,31-05-2021,52.532581,Daylight,Nuneaton and Bedworth,-1.514512,2,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,31-05-2021,52.514664,Daylight,Nuneaton and Bedworth,-1.508226,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-06-2021,52.502031,Daylight,Nuneaton and Bedworth,-1.437064,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-06-2021,52.463224,Daylight,Nuneaton and Bedworth,-1.483335,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-06-2021,52.527652,Daylight,Nuneaton and Bedworth,-1.475946,1,1,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,03-06-2021,52.507173,Daylight,Nuneaton and Bedworth,-1.440829,3,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-06-2021,52.486685,Daylight,Nuneaton and Bedworth,-1.482471,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,04-06-2021,52.48088,Daylight,Nuneaton and Bedworth,-1.491374,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-06-2021,52.499143,Daylight,Nuneaton and Bedworth,-1.473781,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,05-06-2021,52.527827,Daylight,Nuneaton and Bedworth,-1.495697,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-06-2021,52.532986,Daylight,Nuneaton and Bedworth,-1.424432,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-06-2021,52.523109,Darkness - lights lit,Nuneaton and Bedworth,-1.465388,1,1,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,10-06-2021,52.465499,Darkness - lights lit,Nuneaton and Bedworth,-1.510835,1,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,26-05-2021,52.535592,Daylight,Nuneaton and Bedworth,-1.525389,1,3,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,13-06-2021,52.537181,Daylight,Nuneaton and Bedworth,-1.518295,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-06-2021,52.465289,Daylight,Nuneaton and Bedworth,-1.482575,1,1,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,15-06-2021,52.479978,Daylight,Nuneaton and Bedworth,-1.470181,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,12-06-2021,52.515425,Daylight,Nuneaton and Bedworth,-1.496575,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,14-06-2021,52.462079,Daylight,Nuneaton and Bedworth,-1.509989,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Serious,16-06-2021,52.525299,Daylight,Nuneaton and Bedworth,-1.514592,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-06-2021,52.476344,Daylight,Nuneaton and Bedworth,-1.423699,1,3,Dry,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,22-06-2021,52.46506,Daylight,Nuneaton and Bedworth,-1.492146,1,2,Dry,Dual carriageway,Rural,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,22-06-2021,52.47789,Darkness - lights unlit,Nuneaton and Bedworth,-1.446059,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,27-06-2021,52.461547,Daylight,Nuneaton and Bedworth,-1.450386,1,5,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,28-06-2021,52.485838,Daylight,Nuneaton and Bedworth,-1.47394,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-06-2021,52.522166,Daylight,Nuneaton and Bedworth,-1.47557,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-06-2021,52.481144,Daylight,Nuneaton and Bedworth,-1.469578,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-07-2021,52.511987,Daylight,Nuneaton and Bedworth,-1.470975,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-06-2021,52.495633,Daylight,Nuneaton and Bedworth,-1.434053,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,03-07-2021,52.481526,Daylight,Nuneaton and Bedworth,-1.47458,1,1,Wet or damp,Single carriageway,Urban,Motorcycle 50cc and under
+2.01E+12,Slight,05-07-2021,52.52267,Darkness - lights lit,Nuneaton and Bedworth,-1.467752,1,2,Dry,One way street,Urban,Car
+2.01E+12,Slight,05-07-2021,52.525654,Daylight,Nuneaton and Bedworth,-1.513557,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-07-2021,52.520511,Daylight,Nuneaton and Bedworth,-1.467336,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,25-06-2021,52.47597,Daylight,Nuneaton and Bedworth,-1.420612,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,25-06-2021,52.501196,Daylight,Nuneaton and Bedworth,-1.450628,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-07-2021,52.479921,Daylight,Nuneaton and Bedworth,-1.477544,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,06-07-2021,52.466721,Daylight,Nuneaton and Bedworth,-1.441784,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,07-07-2021,52.487585,Daylight,Nuneaton and Bedworth,-1.462579,2,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,07-07-2021,52.52364,Daylight,Nuneaton and Bedworth,-1.463466,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,11-07-2021,52.526407,Daylight,Nuneaton and Bedworth,-1.459158,1,2,Wet or damp,One way street,Urban,Car
+2.01E+12,Slight,11-07-2021,52.533753,Daylight,Nuneaton and Bedworth,-1.515236,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,12-07-2021,52.478622,Daylight,Nuneaton and Bedworth,-1.468578,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,12-07-2021,52.484795,Darkness - lighting unknown,Nuneaton and Bedworth,-1.482052,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,11-07-2021,52.51561,Daylight,Nuneaton and Bedworth,-1.477121,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,18-07-2021,52.472776,Darkness - no lighting,Nuneaton and Bedworth,-1.488376,1,1,Wet or damp,Dual carriageway,Rural,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,16-07-2021,52.526773,Daylight,Nuneaton and Bedworth,-1.501605,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,20-07-2021,52.508989,Daylight,Nuneaton and Bedworth,-1.444637,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,21-07-2021,52.497885,Daylight,Nuneaton and Bedworth,-1.473943,2,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Serious,25-07-2021,52.475414,Daylight,Nuneaton and Bedworth,-1.474948,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-07-2021,52.527296,Daylight,Nuneaton and Bedworth,-1.476835,1,1,Wet or damp,One way street,Urban,Agricultural vehicle
+2.01E+12,Slight,26-07-2021,52.461825,Daylight,Nuneaton and Bedworth,-1.492477,3,2,Wet or damp,Slip road,Rural,Car
+2.01E+12,Slight,30-07-2021,52.519102,Daylight,Nuneaton and Bedworth,-1.494618,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Fatal,01-08-2021,52.471994,Daylight,Nuneaton and Bedworth,-1.51621,1,2,Wet or damp,Single carriageway,Rural,Motorcycle 50cc and under
+2.01E+12,Serious,08-08-2021,52.544757,Daylight,Nuneaton and Bedworth,-1.441826,1,2,Dry,Single carriageway,Rural,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,08-08-2021,52.535967,Daylight,Nuneaton and Bedworth,-1.465675,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-08-2021,52.517998,Darkness - lights lit,Nuneaton and Bedworth,-1.488735,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-08-2021,52.514046,Daylight,Nuneaton and Bedworth,-1.469035,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-08-2021,52.524942,Daylight,Nuneaton and Bedworth,-1.493666,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,11-08-2021,52.514883,Darkness - lights lit,Nuneaton and Bedworth,-1.495992,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,11-08-2021,52.478902,Darkness - no lighting,Nuneaton and Bedworth,-1.5126,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,15-08-2021,52.489887,Daylight,Nuneaton and Bedworth,-1.474628,1,3,Dry,One way street,Urban,Car
+2.01E+12,Slight,16-08-2021,52.498516,Darkness - lights lit,Nuneaton and Bedworth,-1.474231,1,2,Dry,Dual carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Serious,16-08-2021,52.467684,Daylight,Nuneaton and Bedworth,-1.517582,1,1,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,21-08-2021,52.522512,Daylight,Nuneaton and Bedworth,-1.47247,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-08-2021,52.478952,Daylight,Nuneaton and Bedworth,-1.461948,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-08-2021,52.544301,Daylight,Nuneaton and Bedworth,-1.440505,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,26-08-2021,52.514047,Daylight,Nuneaton and Bedworth,-1.46933,1,4,Wet or damp,Single carriageway,Urban,Motorcycle 50cc and under
+2.01E+12,Serious,28-08-2021,52.541751,Daylight,Nuneaton and Bedworth,-1.433607,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,26-08-2021,52.517507,Daylight,Nuneaton and Bedworth,-1.459119,1,2,Wet or damp,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,28-08-2021,52.534379,Daylight,Nuneaton and Bedworth,-1.45272,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,28-08-2021,52.517747,Daylight,Nuneaton and Bedworth,-1.472527,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-08-2021,52.526342,Daylight,Nuneaton and Bedworth,-1.527994,1,2,Dry,Single carriageway,Urban,Motorcycle 50cc and under
+2.01E+12,Slight,28-08-2021,52.465409,Daylight,Nuneaton and Bedworth,-1.510836,3,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,02-09-2021,52.523015,Daylight,Nuneaton and Bedworth,-1.464505,1,2,Wet or damp,One way street,Urban,Car
+2.01E+12,Slight,02-09-2021,52.532922,Daylight,Nuneaton and Bedworth,-1.468365,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,06-09-2021,52.518184,Daylight,Nuneaton and Bedworth,-1.490207,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,09-09-2021,52.464461,Daylight,Nuneaton and Bedworth,-1.499218,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,09-09-2021,52.454035,Daylight,Nuneaton and Bedworth,-1.499778,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,03-09-2021,52.48471,Daylight,Nuneaton and Bedworth,-1.483084,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,13-09-2021,52.523026,Daylight,Nuneaton and Bedworth,-1.508427,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-09-2021,52.518103,Daylight,Nuneaton and Bedworth,-1.471639,1,2,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Serious,15-09-2021,52.511421,Daylight,Nuneaton and Bedworth,-1.445638,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,18-09-2021,52.463625,Daylight,Nuneaton and Bedworth,-1.492898,1,3,Dry,Roundabout,Rural,Car
+2.01E+12,Serious,19-09-2021,52.528602,Daylight,Nuneaton and Bedworth,-1.531066,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,18-09-2021,52.524547,Daylight,Nuneaton and Bedworth,-1.465224,1,2,Dry,One way street,Urban,Car
+2.01E+12,Slight,20-09-2021,52.525009,Daylight,Nuneaton and Bedworth,-1.468018,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-09-2021,52.482318,Daylight,Nuneaton and Bedworth,-1.432015,3,2,Dry,Single carriageway,Urban,Motorcycle 50cc and under
+2.01E+12,Slight,24-09-2021,52.486497,Daylight,Nuneaton and Bedworth,-1.480706,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-09-2021,52.525,Daylight,Nuneaton and Bedworth,-1.466102,1,1,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,29-09-2021,52.509962,Daylight,Nuneaton and Bedworth,-1.460538,1,1,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,30-09-2021,52.467217,Daylight,Nuneaton and Bedworth,-1.471365,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,30-09-2021,52.527122,Daylight,Nuneaton and Bedworth,-1.458264,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,30-09-2021,52.52445,Daylight,Nuneaton and Bedworth,-1.463603,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,01-10-2021,52.521308,Daylight,Nuneaton and Bedworth,-1.464673,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Fatal,02-10-2021,52.464549,Darkness - no lighting,Nuneaton and Bedworth,-1.498775,1,1,Dry,Dual carriageway,Rural,Motorcycle 125cc and under
+2.01E+12,Slight,30-09-2021,52.515344,Darkness - lights lit,Nuneaton and Bedworth,-1.498787,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-10-2021,52.46648,Daylight,Nuneaton and Bedworth,-1.50891,1,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,12-10-2021,52.518697,Daylight,Nuneaton and Bedworth,-1.444367,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,13-10-2021,52.513463,Daylight,Nuneaton and Bedworth,-1.459464,1,2,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,13-10-2021,52.526668,Daylight,Nuneaton and Bedworth,-1.457238,1,1,Dry,One way street,Urban,Car
+2.01E+12,Slight,11-10-2021,52.469049,Daylight,Nuneaton and Bedworth,-1.499755,1,2,Wet or damp,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Serious,13-10-2021,52.4817,Daylight,Nuneaton and Bedworth,-1.473253,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,07-10-2021,52.522734,Daylight,Nuneaton and Bedworth,-1.482048,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,16-10-2021,52.477997,Daylight,Nuneaton and Bedworth,-1.449886,1,2,Dry,Single carriageway,Rural,Taxi/Private hire car
+2.01E+12,Slight,19-10-2021,52.496574,Daylight,Nuneaton and Bedworth,-1.482355,2,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Serious,21-10-2021,52.479535,Daylight,Nuneaton and Bedworth,-1.513624,2,2,Wet or damp,Single carriageway,Rural,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,21-10-2021,52.528343,Daylight,Nuneaton and Bedworth,-1.449994,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-10-2021,52.536385,Daylight,Nuneaton and Bedworth,-1.420849,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,22-10-2021,52.526197,Darkness - lights lit,Nuneaton and Bedworth,-1.514288,1,1,Wet or damp,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Serious,23-10-2021,52.461029,Darkness - lights lit,Nuneaton and Bedworth,-1.49543,1,1,Wet or damp,Dual carriageway,Rural,Agricultural vehicle
+2.01E+12,Slight,23-10-2021,52.524111,Darkness - lights lit,Nuneaton and Bedworth,-1.509889,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-10-2021,52.4581,Darkness - no lighting,Nuneaton and Bedworth,-1.483395,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,26-10-2021,52.516133,Daylight,Nuneaton and Bedworth,-1.51543,1,1,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,26-10-2021,52.466844,Daylight,Nuneaton and Bedworth,-1.510084,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Serious,28-10-2021,52.526934,Daylight,Nuneaton and Bedworth,-1.476397,1,1,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,29-10-2021,52.459741,Daylight,Nuneaton and Bedworth,-1.532092,2,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,29-10-2021,52.49159,Darkness - no lighting,Nuneaton and Bedworth,-1.453693,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,30-10-2021,52.521575,Darkness - lights unlit,Nuneaton and Bedworth,-1.48442,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,04-11-2021,52.473962,Daylight,Nuneaton and Bedworth,-1.492338,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,04-11-2021,52.479525,Daylight,Nuneaton and Bedworth,-1.469451,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,04-11-2021,52.472507,Darkness - no lighting,Nuneaton and Bedworth,-1.488527,2,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,05-11-2021,52.527122,Darkness - lights lit,Nuneaton and Bedworth,-1.458264,1,2,Wet or damp,One way street,Urban,Car
+2.01E+12,Slight,06-11-2021,52.527122,Darkness - lights lit,Nuneaton and Bedworth,-1.458117,2,2,Wet or damp,One way street,Urban,Motorcycle over 500cc
+2.01E+12,Slight,07-11-2021,52.4817,Daylight,Nuneaton and Bedworth,-1.473253,6,2,Dry,One way street,Urban,Car
+2.01E+12,Slight,07-11-2021,52.517871,Darkness - lights lit,Nuneaton and Bedworth,-1.480189,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Serious,07-11-2021,52.515346,Darkness - lights lit,Nuneaton and Bedworth,-1.499229,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,08-11-2021,52.521708,Darkness - lights lit,Nuneaton and Bedworth,-1.494293,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,08-11-2021,52.521597,Darkness - lights lit,Nuneaton and Bedworth,-1.489283,2,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,14-11-2021,52.473856,Darkness - no lighting,Nuneaton and Bedworth,-1.488658,1,1,Wet or damp,Dual carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,15-11-2021,52.521292,Darkness - lights lit,Nuneaton and Bedworth,-1.502256,3,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,17-11-2021,52.514126,Daylight,Nuneaton and Bedworth,-1.466824,2,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Serious,17-11-2021,52.468071,Darkness - lights lit,Nuneaton and Bedworth,-1.481512,1,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,17-11-2021,52.520693,Daylight,Nuneaton and Bedworth,-1.467923,1,2,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,22-11-2021,52.518507,Daylight,Nuneaton and Bedworth,-1.524541,1,1,Wet or damp,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,23-11-2021,52.530742,Daylight,Nuneaton and Bedworth,-1.463379,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-11-2021,52.479092,Daylight,Nuneaton and Bedworth,-1.473137,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,26-11-2021,52.514126,Daylight,Nuneaton and Bedworth,-1.466824,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,30-09-2021,52.478802,Daylight,Nuneaton and Bedworth,-1.468576,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-11-2021,52.515425,Darkness - lighting unknown,Nuneaton and Bedworth,-1.496575,2,2,Wet or damp,Roundabout,Urban,Motorcycle 50cc and under
+2.01E+12,Slight,25-11-2021,52.516901,Daylight,Nuneaton and Bedworth,-1.505548,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,20-11-2021,52.466276,Darkness - no lighting,Nuneaton and Bedworth,-1.442672,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,01-12-2021,52.464779,Darkness - lights lit,Nuneaton and Bedworth,-1.489352,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,27-11-2021,52.511262,Daylight,Nuneaton and Bedworth,-1.45006,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Fatal,02-12-2021,52.522317,Darkness - lights lit,Nuneaton and Bedworth,-1.510941,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,28-11-2021,52.52755,Darkness - lights lit,Nuneaton and Bedworth,-1.515305,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,03-12-2021,52.463397,Darkness - lights lit,Nuneaton and Bedworth,-1.481714,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-12-2021,52.534826,Daylight,Nuneaton and Bedworth,-1.452125,1,2,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,04-12-2021,52.528566,Darkness - lights lit,Nuneaton and Bedworth,-1.440115,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,05-12-2021,52.538371,Darkness - lights lit,Nuneaton and Bedworth,-1.501768,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,07-12-2021,52.521522,Daylight,Nuneaton and Bedworth,-1.492821,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-12-2021,52.528559,Daylight,Nuneaton and Bedworth,-1.438641,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,09-12-2021,52.533702,Daylight,Nuneaton and Bedworth,-1.423686,4,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,09-12-2021,52.477264,Daylight,Nuneaton and Bedworth,-1.466533,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-12-2021,52.462079,Darkness - lights lit,Nuneaton and Bedworth,-1.509989,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,10-12-2021,52.479071,Darkness - lights lit,Nuneaton and Bedworth,-1.488745,1,1,Wet or damp,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,13-12-2021,52.521657,Darkness - lights lit,Nuneaton and Bedworth,-1.503579,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,13-12-2021,52.537559,Darkness - lights lit,Nuneaton and Bedworth,-1.422013,4,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,13-12-2021,52.522736,Darkness - lights lit,Nuneaton and Bedworth,-1.48249,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,14-12-2021,52.517908,Daylight,Nuneaton and Bedworth,-1.488736,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,10-12-2021,52.47255,Darkness - lights lit,Nuneaton and Bedworth,-1.477926,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,16-12-2021,52.464549,Daylight,Nuneaton and Bedworth,-1.498775,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Serious,26-12-2021,52.534251,Daylight,Nuneaton and Bedworth,-1.52732,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,26-12-2021,52.512984,Darkness - lights lit,Nuneaton and Bedworth,-1.453133,1,4,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,27-12-2021,52.499235,Daylight,Nuneaton and Bedworth,-1.474222,1,1,Frost or ice,Dual carriageway,Urban,Car
+2.01E+12,Serious,28-12-2021,52.479073,Darkness - no lighting,Nuneaton and Bedworth,-1.489334,2,2,Frost or ice,Dual carriageway,Urban,Car
+2.01E+12,Slight,12-12-2021,52.468056,Daylight,Nuneaton and Bedworth,-1.520522,2,2,Dry,Dual carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Serious,29-12-2021,52.524725,Daylight,Nuneaton and Bedworth,-1.464927,2,3,Wet or damp,Single carriageway,Urban,Car
 201020D002713,Slight,03-01-2022,52.482901,Daylight,Birmingham,-1.761121,2,2,Dry,Single carriageway,Urban,Car
 201020D004613,Slight,02-01-2022,52.473343,Darkness - lights lit,Birmingham,-1.854218,1,2,Wet or damp,One way street,Urban,Car
 201020D006113,Slight,04-01-2022,52.475397,Darkness - lights lit,Birmingham,-1.843905,1,1,Wet or damp,Single carriageway,Urban,Car
@@ -31493,3 +32377,282 @@ Index,Accident_Severity,Accident Date,Latitude,Light_Conditions,District Area,Lo
 2.01E+12,Slight,29-12-2022,52.326875,Darkness - lighting unknown,Warwick,-1.558293,4,2,Wet or damp,Single carriageway,Rural,Car
 2.01E+12,Slight,29-12-2022,52.295328,Darkness - no lighting,Warwick,-1.537492,1,2,Wet or damp,Single carriageway,Urban,Car
 2.01E+12,Slight,30-12-2022,52.329117,Daylight,Warwick,-1.666274,1,2,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,02-01-2022,52.461547,Daylight,Nuneaton and Bedworth,-1.450386,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,03-01-2022,52.475694,Daylight,Nuneaton and Bedworth,-1.497912,1,3,Frost or ice,Single carriageway,Rural,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,05-01-2022,52.513036,Daylight,Nuneaton and Bedworth,-1.484667,1,2,Snow,Single carriageway,Urban,Car
+2.01E+12,Slight,05-01-2022,52.463724,Darkness - lights lit,Nuneaton and Bedworth,-1.494958,1,2,Snow,Slip road,Rural,Car
+2.01E+12,Slight,06-01-2022,52.451472,Daylight,Nuneaton and Bedworth,-1.510401,2,2,Snow,Single carriageway,Urban,Car
+2.01E+12,Slight,11-01-2022,52.535585,Darkness - lights lit,Nuneaton and Bedworth,-1.501947,1,3,Snow,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,11-01-2022,52.459002,Daylight,Nuneaton and Bedworth,-1.527096,1,2,Frost or ice,Single carriageway,Rural,Motorcycle 125cc and under
+2.01E+12,Slight,11-01-2022,52.512949,Daylight,Nuneaton and Bedworth,-1.485405,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,12-01-2022,52.516509,Daylight,Nuneaton and Bedworth,-1.519552,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,14-01-2022,52.473494,Daylight,Nuneaton and Bedworth,-1.509274,1,1,Frost or ice,One way street,Urban,Car
+2.01E+12,Serious,16-01-2022,52.474439,Daylight,Nuneaton and Bedworth,-1.420191,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,15-01-2022,52.478984,Darkness - lights lit,Nuneaton and Bedworth,-1.469015,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,17-01-2022,52.509488,Daylight,Nuneaton and Bedworth,-1.475278,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,20-01-2022,52.469259,Darkness - no lighting,Nuneaton and Bedworth,-1.529194,2,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,22-01-2022,52.50562,Daylight,Nuneaton and Bedworth,-1.435545,3,2,Wet or damp,Roundabout,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,22-01-2022,52.457333,Daylight,Nuneaton and Bedworth,-1.472514,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,23-01-2022,52.51537,Darkness - lights lit,Nuneaton and Bedworth,-1.504976,1,2,Dry,Single carriageway,Urban,Agricultural vehicle
+2.01E+12,Slight,25-01-2022,52.521686,Daylight,Nuneaton and Bedworth,-1.489282,1,1,Dry,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,25-01-2022,52.461561,Daylight,Nuneaton and Bedworth,-1.493658,1,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Serious,25-01-2022,52.513706,Darkness - lights lit,Nuneaton and Bedworth,-1.473607,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-01-2022,52.521714,Daylight,Nuneaton and Bedworth,-1.495767,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,28-01-2022,52.524825,Darkness - lights lit,Nuneaton and Bedworth,-1.466989,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,29-01-2022,52.522699,Darkness - lights lit,Nuneaton and Bedworth,-1.474089,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,31-01-2022,52.50049,Daylight,Nuneaton and Bedworth,-1.416018,1,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,01-02-2022,52.519246,Darkness - lights lit,Nuneaton and Bedworth,-1.486215,4,3,Wet or damp,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,02-02-2022,52.462198,Darkness - no lighting,Nuneaton and Bedworth,-1.495417,2,2,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,04-02-2022,52.493953,Darkness - lighting unknown,Nuneaton and Bedworth,-1.479293,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,03-02-2022,52.513543,Daylight,Nuneaton and Bedworth,-1.4574,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,05-02-2022,52.475771,Darkness - lights lit,Nuneaton and Bedworth,-1.474354,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,05-02-2022,52.522735,Darkness - lights lit,Nuneaton and Bedworth,-1.482195,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-02-2022,52.461297,Darkness - lights lit,Nuneaton and Bedworth,-1.495133,1,1,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,09-02-2022,52.535304,Daylight,Nuneaton and Bedworth,-1.499149,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,09-02-2022,52.471385,Daylight,Nuneaton and Bedworth,-1.478676,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,11-02-2022,52.514625,Daylight,Nuneaton and Bedworth,-1.458123,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,11-02-2022,52.522829,Daylight,Nuneaton and Bedworth,-1.463034,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,12-02-2022,52.532311,Daylight,Nuneaton and Bedworth,-1.514515,5,3,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,12-02-2022,52.518418,Daylight,Nuneaton and Bedworth,-1.52469,1,1,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,15-02-2022,52.5244,Darkness - lights lit,Nuneaton and Bedworth,-1.537006,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,15-02-2022,52.514161,Darkness - lights lit,Nuneaton and Bedworth,-1.474633,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,17-02-2022,52.528102,Daylight,Nuneaton and Bedworth,-1.437026,3,1,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,19-02-2022,52.514071,Darkness - lights lit,Nuneaton and Bedworth,-1.474634,2,2,Snow,Single carriageway,Urban,Car
+2.01E+12,Slight,20-02-2022,52.513455,Darkness - lights lit,Nuneaton and Bedworth,-1.457696,2,2,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,23-02-2022,52.461558,Darkness - lights lit,Nuneaton and Bedworth,-1.493069,1,2,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,28-02-2022,52.517683,Daylight,Nuneaton and Bedworth,-1.520866,1,1,Dry,Single carriageway,Urban,Other vehicle
+2.01E+12,Serious,28-02-2022,52.496531,Darkness - lights lit,Nuneaton and Bedworth,-1.472634,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,02-03-2022,52.475461,Daylight,Nuneaton and Bedworth,-1.506749,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-03-2022,52.485658,Daylight,Nuneaton and Bedworth,-1.473795,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-03-2022,52.528581,Daylight,Nuneaton and Bedworth,-1.462669,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,05-03-2022,52.517509,Daylight,Nuneaton and Bedworth,-1.479751,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,06-03-2022,52.494045,Darkness - lights lit,Nuneaton and Bedworth,-1.479734,2,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,07-03-2022,52.525056,Darkness - lights lit,Nuneaton and Bedworth,-1.478483,1,1,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,04-03-2022,52.512258,Daylight,Nuneaton and Bedworth,-1.471414,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,06-03-2022,52.521277,Darkness - lighting unknown,Nuneaton and Bedworth,-1.498572,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-03-2022,52.461563,Daylight,Nuneaton and Bedworth,-1.494099,3,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,10-03-2022,52.537741,Daylight,Nuneaton and Bedworth,-1.422453,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-03-2022,52.484393,Darkness - lights lit,Nuneaton and Bedworth,-1.472337,1,1,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,13-03-2022,52.53255,Daylight,Nuneaton and Bedworth,-1.465569,2,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,13-03-2022,52.5147,Daylight,Nuneaton and Bedworth,-1.45488,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,11-03-2022,52.47863,Daylight,Nuneaton and Bedworth,-1.490811,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-03-2022,52.515425,Daylight,Nuneaton and Bedworth,-1.496575,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,22-03-2022,52.485298,Darkness - no lighting,Nuneaton and Bedworth,-1.515769,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,25-03-2022,52.479158,Daylight,Nuneaton and Bedworth,-1.488155,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-03-2022,52.467492,Daylight,Nuneaton and Bedworth,-1.51464,1,1,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,27-03-2022,52.521849,Darkness - lighting unknown,Nuneaton and Bedworth,-1.506377,1,4,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,29-03-2022,52.515425,Daylight,Nuneaton and Bedworth,-1.496575,2,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,30-03-2022,52.471743,Darkness - lights lit,Nuneaton and Bedworth,-1.478377,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,30-03-2022,52.506757,Daylight,Nuneaton and Bedworth,-1.467502,1,2,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,30-03-2022,52.535966,Daylight,Nuneaton and Bedworth,-1.507103,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,31-03-2022,52.513602,Daylight,Nuneaton and Bedworth,-1.450621,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-04-2022,52.535453,Daylight,Nuneaton and Bedworth,-1.451675,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,02-04-2022,52.485029,Daylight,Nuneaton and Bedworth,-1.47395,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,03-04-2022,52.522826,Darkness - lighting unknown,Nuneaton and Bedworth,-1.482489,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,03-04-2022,52.503254,Daylight,Nuneaton and Bedworth,-1.44854,1,2,Dry,Roundabout,Urban,Taxi/Private hire car
+2.01E+12,Slight,12-04-2022,52.521626,Daylight,Nuneaton and Bedworth,-1.496062,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-04-2022,52.480267,Daylight,Nuneaton and Bedworth,-1.474448,1,1,Dry,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,13-04-2022,52.518622,Daylight,Nuneaton and Bedworth,-1.487549,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-03-2022,52.524184,Daylight,Nuneaton and Bedworth,-1.464491,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,16-04-2022,52.478502,Daylight,Nuneaton and Bedworth,-1.461806,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-04-2022,52.479439,Daylight,Nuneaton and Bedworth,-1.470335,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,16-04-2022,52.48346,Daylight,Nuneaton and Bedworth,-1.426404,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,17-04-2022,52.532102,Darkness - lights lit,Nuneaton and Bedworth,-1.446409,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-04-2022,52.526872,Daylight,Nuneaton and Bedworth,-1.462395,2,3,Dry,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Serious,18-04-2022,52.536805,Darkness - lights lit,Nuneaton and Bedworth,-1.514318,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,18-04-2022,52.515595,Daylight,Nuneaton and Bedworth,-1.494363,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-04-2022,52.513672,Daylight,Nuneaton and Bedworth,-1.465945,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,20-04-2022,52.502038,Daylight,Nuneaton and Bedworth,-1.438685,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-04-2022,52.521276,Daylight,Nuneaton and Bedworth,-1.498425,1,3,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,22-04-2022,52.521837,Daylight,Nuneaton and Bedworth,-1.482648,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,26-04-2022,52.477264,Daylight,Nuneaton and Bedworth,-1.466386,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,29-04-2022,52.519995,Daylight,Nuneaton and Bedworth,-1.493134,1,2,Wet or damp,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,01-05-2022,52.523962,Daylight,Nuneaton and Bedworth,-1.539959,1,2,Wet or damp,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,01-05-2022,52.50964,Daylight,Nuneaton and Bedworth,-1.468941,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-05-2022,52.4817,Daylight,Nuneaton and Bedworth,-1.473253,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-05-2022,52.463538,Daylight,Nuneaton and Bedworth,-1.493488,1,1,Wet or damp,Roundabout,Rural,Car
+2.01E+12,Slight,10-05-2022,52.46372,Daylight,Nuneaton and Bedworth,-1.493927,1,2,Dry,Roundabout,Rural,Motorcycle over 125cc and up to 500cc
+2.01E+12,Slight,11-05-2022,52.46515,Daylight,Nuneaton and Bedworth,-1.492145,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,12-05-2022,52.511721,Daylight,Nuneaton and Bedworth,-1.47201,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,14-05-2022,52.5392,Daylight,Nuneaton and Bedworth,-1.426563,1,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,14-05-2022,52.519491,Daylight,Nuneaton and Bedworth,-1.460569,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-05-2022,52.528472,Darkness - lights lit,Nuneaton and Bedworth,-1.47859,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-05-2022,52.474967,Daylight,Nuneaton and Bedworth,-1.475542,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-05-2022,52.528616,Daylight,Nuneaton and Bedworth,-1.512345,1,2,Dry,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,14-05-2022,52.50571,Daylight,Nuneaton and Bedworth,-1.435691,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-05-2022,52.47872,Darkness - lights lit,Nuneaton and Bedworth,-1.49081,3,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-05-2022,52.526684,Daylight,Nuneaton and Bedworth,-1.501753,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,21-05-2022,52.454931,Daylight,Nuneaton and Bedworth,-1.499179,2,2,Dry,Slip road,Rural,Car
+2.01E+12,Slight,21-05-2022,52.474967,Daylight,Nuneaton and Bedworth,-1.475542,1,4,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-05-2022,52.48386,Daylight,Nuneaton and Bedworth,-1.473816,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-05-2022,52.479582,Darkness - lights lit,Nuneaton and Bedworth,-1.48226,1,1,Dry,Single carriageway,Urban,Motorcycle over 125cc and up to 500cc
+2.01E+12,Slight,23-05-2022,52.536832,Daylight,Nuneaton and Bedworth,-1.420254,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-05-2022,52.522735,Daylight,Nuneaton and Bedworth,-1.482343,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,25-05-2022,52.462108,Daylight,Nuneaton and Bedworth,-1.495565,1,2,Dry,Dual carriageway,Rural,Motorcycle 125cc and under
+2.01E+12,Slight,25-05-2022,52.515148,Daylight,Nuneaton and Bedworth,-1.454433,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Fatal,27-05-2022,52.537469,Darkness - lights lit,Nuneaton and Bedworth,-1.500894,1,1,Dry,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,28-05-2022,52.53615,Daylight,Nuneaton and Bedworth,-1.507986,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,01-06-2022,52.506133,Daylight,Nuneaton and Bedworth,-1.468836,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-06-2022,52.513795,Daylight,Nuneaton and Bedworth,-1.453565,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Serious,01-06-2022,52.478037,Daylight,Nuneaton and Bedworth,-1.439285,2,4,Wet or damp,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,02-06-2022,52.529474,Daylight,Nuneaton and Bedworth,-1.481526,1,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,04-06-2022,52.463633,Daylight,Nuneaton and Bedworth,-1.494811,1,2,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,05-06-2022,52.527122,Daylight,Nuneaton and Bedworth,-1.458117,1,2,Dry,One way street,Urban,Taxi/Private hire car
+2.01E+12,Slight,06-06-2022,52.526776,Darkness - lights lit,Nuneaton and Bedworth,-1.461069,1,1,Dry,One way street,Urban,Car
+2.01E+12,Slight,08-06-2022,52.513983,Daylight,Nuneaton and Bedworth,-1.475078,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,09-06-2022,52.498685,Daylight,Nuneaton and Bedworth,-1.471872,1,1,Dry,Dual carriageway,Rural,Car
+2.01E+12,Serious,09-06-2022,52.519498,Daylight,Nuneaton and Bedworth,-1.442589,2,2,Wet or damp,Single carriageway,Urban,Other vehicle
+2.01E+12,Slight,09-06-2022,52.525024,Daylight,Nuneaton and Bedworth,-1.471261,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,11-06-2022,52.515358,Daylight,Nuneaton and Bedworth,-1.502176,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,10-06-2022,52.525292,Daylight,Nuneaton and Bedworth,-1.470963,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,11-06-2022,52.49752,Daylight,Nuneaton and Bedworth,-1.472769,2,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,13-06-2022,52.513483,Daylight,Nuneaton and Bedworth,-1.463884,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-06-2022,52.521272,Daylight,Nuneaton and Bedworth,-1.497393,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,16-06-2022,52.461565,Daylight,Nuneaton and Bedworth,-1.494688,2,1,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,18-06-2022,52.464791,Daylight,Nuneaton and Bedworth,-1.492296,2,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Serious,19-06-2022,52.498668,Daylight,Nuneaton and Bedworth,-1.411034,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,15-06-2022,52.518136,Daylight,Nuneaton and Bedworth,-1.459112,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-06-2022,52.468872,Daylight,Nuneaton and Bedworth,-1.500493,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-06-2022,52.535717,Daylight,Nuneaton and Bedworth,-1.450492,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-06-2022,52.467839,Daylight,Nuneaton and Bedworth,-1.4902,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,23-06-2022,52.525013,Daylight,Nuneaton and Bedworth,-1.468903,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,23-06-2022,52.52607,Daylight,Nuneaton and Bedworth,-1.52726,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,25-06-2022,52.525291,Daylight,Nuneaton and Bedworth,-1.470816,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Serious,26-06-2022,52.461387,Daylight,Nuneaton and Bedworth,-1.494984,2,1,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,27-06-2022,52.536466,Daylight,Nuneaton and Bedworth,-1.419079,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-06-2022,52.496616,Daylight,Nuneaton and Bedworth,-1.471602,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,02-07-2022,52.480959,Daylight,Nuneaton and Bedworth,-1.48887,1,2,Dry,Dual carriageway,Rural,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Serious,03-07-2022,52.522112,Daylight,Nuneaton and Bedworth,-1.504753,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-07-2022,52.515476,Daylight,Nuneaton and Bedworth,-1.467249,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,04-07-2022,52.529929,Daylight,Nuneaton and Bedworth,-1.482848,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-07-2022,52.481333,Daylight,Nuneaton and Bedworth,-1.432911,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-06-2022,52.533211,Daylight,Nuneaton and Bedworth,-1.514653,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,10-07-2022,52.504617,Daylight,Nuneaton and Bedworth,-1.432611,1,1,Dry,Single carriageway,Urban,Goods over 3.5t. and under 7.5t
+2.01E+12,Slight,11-07-2022,52.527122,Daylight,Nuneaton and Bedworth,-1.458117,1,2,Dry,One way street,Urban,Car
+2.01E+12,Serious,11-07-2022,52.453585,Daylight,Nuneaton and Bedworth,-1.499783,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,13-07-2022,52.48159,Daylight,Nuneaton and Bedworth,-1.468837,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,14-07-2022,52.528564,Daylight,Nuneaton and Bedworth,-1.479031,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,15-07-2022,52.522241,Darkness - lights lit,Nuneaton and Bedworth,-1.472326,1,3,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,16-07-2022,52.474127,Daylight,Nuneaton and Bedworth,-1.488949,1,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,16-07-2022,52.531952,Daylight,Nuneaton and Bedworth,-1.514666,2,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,17-07-2022,52.521308,Daylight,Nuneaton and Bedworth,-1.464673,1,1,Dry,Single carriageway,Urban,Motorcycle 50cc and under
+2.01E+12,Serious,17-07-2022,52.524272,Daylight,Nuneaton and Bedworth,-1.464048,1,2,Dry,One way street,Urban,Car
+2.01E+12,Slight,18-07-2022,52.507874,Darkness - no lighting,Nuneaton and Bedworth,-1.476034,1,1,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,19-07-2022,52.515345,Daylight,Nuneaton and Bedworth,-1.499082,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,19-07-2022,52.522965,Daylight,Nuneaton and Bedworth,-1.515502,1,2,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,16-07-2022,52.527925,Daylight,Nuneaton and Bedworth,-1.47668,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,21-07-2022,52.528684,Daylight,Nuneaton and Bedworth,-1.44601,1,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,30-07-2022,52.462169,Daylight,Nuneaton and Bedworth,-1.509988,1,2,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,30-07-2022,52.512106,Daylight,Nuneaton and Bedworth,-1.457712,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,31-07-2022,52.526953,Darkness - lights lit,Nuneaton and Bedworth,-1.460625,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,31-07-2022,52.471027,Daylight,Nuneaton and Bedworth,-1.478975,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Serious,01-08-2022,52.500229,Darkness - lights lit,Nuneaton and Bedworth,-1.436351,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,01-08-2022,52.524578,Daylight,Nuneaton and Bedworth,-1.472151,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Fatal,05-08-2022,52.479076,Daylight,Nuneaton and Bedworth,-1.469456,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,07-08-2022,52.494559,Darkness - lights lit,Nuneaton and Bedworth,-1.473983,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,08-08-2022,52.469844,Darkness - lights lit,Nuneaton and Bedworth,-1.475897,2,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-08-2022,52.513141,Daylight,Nuneaton and Bedworth,-1.46772,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-08-2022,52.497348,Darkness - lights lit,Nuneaton and Bedworth,-1.474392,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Serious,16-08-2022,52.45856,Daylight,Nuneaton and Bedworth,-1.485892,1,1,Dry,Roundabout,Rural,Car
+2.01E+12,Slight,17-08-2022,52.459913,Darkness - no lighting,Nuneaton and Bedworth,-1.486759,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,19-08-2022,52.524846,Daylight,Nuneaton and Bedworth,-1.471705,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,20-08-2022,52.461561,Daylight,Nuneaton and Bedworth,-1.493805,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,25-08-2022,52.485479,Darkness - lights lit,Nuneaton and Bedworth,-1.473944,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Fatal,26-08-2022,52.469631,Darkness - no lighting,Nuneaton and Bedworth,-1.488707,1,3,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,29-08-2022,52.475669,Darkness - lights lit,Nuneaton and Bedworth,-1.492171,2,3,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-08-2022,52.47916,Darkness - lights lit,Nuneaton and Bedworth,-1.488597,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,27-08-2022,52.517188,Daylight,Nuneaton and Bedworth,-1.509819,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,30-07-2022,52.478312,Daylight,Nuneaton and Bedworth,-1.4596,2,2,Wet or damp,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,31-08-2022,52.480352,Daylight,Nuneaton and Bedworth,-1.473416,4,2,Dry,One way street,Urban,Car
+2.01E+12,Serious,01-09-2022,52.540111,Darkness - lights lit,Nuneaton and Bedworth,-1.429057,2,2,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,03-09-2022,52.525002,Daylight,Nuneaton and Bedworth,-1.466397,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,03-09-2022,52.524181,Daylight,Nuneaton and Bedworth,-1.463901,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-09-2022,52.480443,Daylight,Nuneaton and Bedworth,-1.47371,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,07-09-2022,52.516252,Darkness - no lighting,Nuneaton and Bedworth,-1.545639,2,1,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,06-09-2022,52.528198,Daylight,Nuneaton and Bedworth,-1.477561,2,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,07-09-2022,52.527211,Daylight,Nuneaton and Bedworth,-1.457968,1,2,Dry,One way street,Urban,Car
+2.01E+12,Slight,09-09-2022,52.49885,Daylight,Nuneaton and Bedworth,-1.41162,4,3,Dry,Single carriageway,Rural,Car
+2.01E+12,Serious,09-09-2022,52.483722,Daylight,Nuneaton and Bedworth,-1.463215,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-09-2022,52.514314,Daylight,Nuneaton and Bedworth,-1.468737,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,14-09-2022,52.472765,Daylight,Nuneaton and Bedworth,-1.465557,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,14-09-2022,52.513463,Daylight,Nuneaton and Bedworth,-1.459464,1,2,Wet or damp,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,15-09-2022,52.52552,Daylight,Nuneaton and Bedworth,-1.461822,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-09-2022,52.515355,Daylight,Nuneaton and Bedworth,-1.501439,1,1,Dry,Single carriageway,Urban,Motorcycle 50cc and under
+2.01E+12,Slight,21-09-2022,52.524717,Daylight,Nuneaton and Bedworth,-1.463011,1,2,Dry,Dual carriageway,Urban,Car
+2.01E+12,Slight,22-09-2022,52.514579,Darkness - lights lit,Nuneaton and Bedworth,-1.467702,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Serious,26-09-2022,52.467173,Darkness - lights lit,Nuneaton and Bedworth,-1.481817,2,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,26-09-2022,52.51395,Darkness - lights lit,Nuneaton and Bedworth,-1.467857,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,28-09-2022,52.476435,Daylight,Nuneaton and Bedworth,-1.423845,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,28-09-2022,52.52436,Daylight,Nuneaton and Bedworth,-1.463604,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-09-2022,52.465599,Daylight,Nuneaton and Bedworth,-1.491845,2,6,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,17-09-2022,52.513276,Daylight,Nuneaton and Bedworth,-1.457993,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,02-10-2022,52.474235,Daylight,Nuneaton and Bedworth,-1.514713,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,04-10-2022,52.526914,Daylight,Nuneaton and Bedworth,-1.471828,1,2,Dry,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Serious,05-10-2022,52.513374,Daylight,Nuneaton and Bedworth,-1.459612,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,06-10-2022,52.458614,Daylight,Nuneaton and Bedworth,-1.477649,1,2,Dry,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,13-10-2022,52.511444,Daylight,Nuneaton and Bedworth,-1.4505,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,13-10-2022,52.476843,Darkness - lights lit,Nuneaton and Bedworth,-1.415448,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,13-10-2022,52.472542,Daylight,Nuneaton and Bedworth,-1.49677,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-10-2022,52.461561,Daylight,Nuneaton and Bedworth,-1.493805,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,14-10-2022,52.52225,Daylight,Nuneaton and Bedworth,-1.474242,1,1,Dry,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,10-10-2022,52.508173,Darkness - lights lit,Nuneaton and Bedworth,-1.462623,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,16-10-2022,52.520603,Darkness - lights lit,Nuneaton and Bedworth,-1.467924,1,1,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,15-10-2022,52.535248,Daylight,Nuneaton and Bedworth,-1.465831,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,17-10-2022,52.461654,Daylight,Nuneaton and Bedworth,-1.494393,1,2,Dry,Roundabout,Rural,Motorcycle 50cc and under
+2.01E+12,Slight,18-10-2022,52.510871,Daylight,Nuneaton and Bedworth,-1.462737,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-10-2022,52.471403,Daylight,Nuneaton and Bedworth,-1.50385,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-10-2022,52.512994,Darkness - lights lit,Nuneaton and Bedworth,-1.455344,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,22-10-2022,52.532776,Darkness - lights lit,Nuneaton and Bedworth,-1.518196,1,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,24-10-2022,52.48377,Daylight,Nuneaton and Bedworth,-1.473817,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,27-10-2022,52.461561,Daylight,Nuneaton and Bedworth,-1.493805,1,2,Dry,Dual carriageway,Rural,Car
+2.01E+12,Slight,27-10-2022,52.533354,Daylight,Nuneaton and Bedworth,-1.527919,1,2,Wet or damp,Single carriageway,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,21-10-2022,52.527742,Daylight,Nuneaton and Bedworth,-1.456193,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Serious,28-10-2022,52.527861,Darkness - lights lit,Nuneaton and Bedworth,-1.46253,1,2,Dry,Single carriageway,Urban,Bus or coach (17 or more pass seats)
+2.01E+12,Slight,29-10-2022,52.483371,Darkness - lighting unknown,Nuneaton and Bedworth,-1.426553,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,01-11-2022,52.458011,Daylight,Nuneaton and Bedworth,-1.526518,2,1,Dry,Single carriageway,Rural,Car
+2.01E+12,Slight,01-11-2022,52.528016,Daylight,Nuneaton and Bedworth,-1.477121,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,12-10-2022,52.522169,Daylight,Nuneaton and Bedworth,-1.476159,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,30-10-2022,52.476718,Daylight,Nuneaton and Bedworth,-1.506293,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,02-11-2022,52.487006,Darkness - lights lit,Nuneaton and Bedworth,-1.473779,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,03-11-2022,52.472595,Darkness - no lighting,Nuneaton and Bedworth,-1.488231,2,1,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,03-11-2022,52.475324,Darkness - lights lit,Nuneaton and Bedworth,-1.474949,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Serious,07-11-2022,52.467084,Darkness - lights lit,Nuneaton and Bedworth,-1.481965,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,07-11-2022,52.498148,Darkness - lights lit,Nuneaton and Bedworth,-1.47232,1,2,Wet or damp,Dual carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,11-11-2022,52.477291,Darkness - lights lit,Nuneaton and Bedworth,-1.472422,1,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,13-11-2022,52.521575,Darkness - lighting unknown,Nuneaton and Bedworth,-1.484272,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,14-11-2022,52.529436,Darkness - lights lit,Nuneaton and Bedworth,-1.514989,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,15-11-2022,52.505529,Darkness - lights lit,Nuneaton and Bedworth,-1.435399,1,2,Dry,Roundabout,Urban,Motorcycle 125cc and under
+2.01E+12,Slight,15-11-2022,52.476227,Darkness - lights lit,Nuneaton and Bedworth,-1.418106,2,2,Dry,Roundabout,Urban,Motorcycle 125cc and under
+2.01E+12,Serious,11-11-2022,52.517999,Daylight,Nuneaton and Bedworth,-1.488883,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,16-11-2022,52.530672,Daylight,Nuneaton and Bedworth,-1.488146,1,2,Wet or damp,Single carriageway,Rural,Taxi/Private hire car
+2.01E+12,Slight,19-11-2022,52.506514,Darkness - lights lit,Nuneaton and Bedworth,-1.43465,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,20-11-2022,52.53127,Darkness - lights lit,Nuneaton and Bedworth,-1.501849,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Serious,22-11-2022,52.451472,Daylight,Nuneaton and Bedworth,-1.510254,1,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,22-11-2022,52.513538,Darkness - lights lit,Nuneaton and Bedworth,-1.476262,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,23-11-2022,52.45592,Darkness - lights lit,Nuneaton and Bedworth,-1.499167,1,1,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,24-11-2022,52.513036,Daylight,Nuneaton and Bedworth,-1.484667,2,4,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,24-11-2022,52.530901,Daylight,Nuneaton and Bedworth,-1.499789,1,1,Wet or damp,Single carriageway,Urban,Motorcycle over 500cc
+2.01E+12,Slight,26-11-2022,52.527772,Daylight,Nuneaton and Bedworth,-1.462678,1,2,Frost or ice,Single carriageway,Urban,Taxi/Private hire car
+2.01E+12,Slight,28-11-2022,52.51797,Darkness - lights lit,Nuneaton and Bedworth,-1.525137,1,1,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,29-11-2022,52.497975,Darkness - lighting unknown,Nuneaton and Bedworth,-1.473942,1,2,Wet or damp,Roundabout,Urban,Car
+2.01E+12,Slight,29-11-2022,52.500348,Darkness - lights lit,Nuneaton and Bedworth,-1.482016,1,1,Wet or damp,Single carriageway,Urban,Goods 7.5 tonnes mgw and over
+2.01E+12,Slight,01-12-2022,52.468871,Daylight,Nuneaton and Bedworth,-1.500345,3,3,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,03-12-2022,52.520396,Darkness - lighting unknown,Nuneaton and Bedworth,-1.461884,2,1,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,03-12-2022,52.534771,Daylight,Nuneaton and Bedworth,-1.522597,1,1,Frost or ice,Single carriageway,Rural,Car
+2.01E+12,Slight,04-12-2022,52.532995,Darkness - lights lit,Nuneaton and Bedworth,-1.52807,1,1,Snow,Single carriageway,Urban,Car
+2.01E+12,Serious,06-12-2022,52.466767,Darkness - lights lit,Nuneaton and Bedworth,-1.471223,1,2,Frost or ice,Single carriageway,Urban,Car
+2.01E+12,Slight,07-12-2022,52.521575,Darkness - lights lit,Nuneaton and Bedworth,-1.48442,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,10-12-2022,52.468357,Daylight,Nuneaton and Bedworth,-1.485336,1,2,Wet or damp,Single carriageway,Urban,Van / Goods 3.5 tonnes mgw or under
+2.01E+12,Slight,11-12-2022,52.47592,Darkness - lights lit,Nuneaton and Bedworth,-1.509099,1,2,Dry,Roundabout,Urban,Car
+2.01E+12,Slight,12-12-2022,52.512616,Darkness - lights lit,Nuneaton and Bedworth,-1.491598,1,1,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,12-12-2022,52.496531,Darkness - lights lit,Nuneaton and Bedworth,-1.472634,2,2,Wet or damp,Single carriageway,Rural,Car
+2.01E+12,Slight,14-12-2022,52.520976,Daylight,Nuneaton and Bedworth,-1.470867,2,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,15-12-2022,52.467865,Daylight,Nuneaton and Bedworth,-1.517727,1,2,Wet or damp,Dual carriageway,Rural,Car
+2.01E+12,Slight,16-12-2022,52.537091,Darkness - lights lit,Nuneaton and Bedworth,-1.518148,2,2,Wet or damp,Single carriageway,Urban,Car
+2.01E+12,Slight,17-12-2022,52.478263,Daylight,Nuneaton and Bedworth,-1.489196,1,3,Snow,Dual carriageway,Urban,Car
+2.01E+12,Slight,17-12-2022,52.486428,Daylight,Nuneaton and Bedworth,-1.48542,1,2,Frost or ice,Dual carriageway,Urban,Car
+2.01E+12,Slight,19-12-2022,52.4674,Darkness - no lighting,Nuneaton and Bedworth,-1.514052,1,1,Frost or ice,Dual carriageway,Rural,Car
+2.01E+12,Slight,24-12-2022,52.509311,Darkness - lights lit,Nuneaton and Bedworth,-1.475723,1,1,Frost or ice,Roundabout,Urban,Car
+2.01E+12,Slight,31-12-2022,52.524448,Daylight,Nuneaton and Bedworth,-1.463309,1,2,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,08-12-2022,52.455046,Daylight,Nuneaton and Bedworth,-1.505064,1,1,Dry,Single carriageway,Urban,Car
+2.01E+12,Slight,29-12-2022,52.498203,Darkness - no lighting,Nuneaton and Bedworth,-1.464659,1,2,Wet or damp,Single carriageway,Rural,Car
