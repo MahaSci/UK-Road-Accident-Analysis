@@ -21,6 +21,9 @@ The objectives above will be achieved by the following activities (summarised - 
 
 * [Streamlit](https://uk-road-accident-analysis-dashboard.streamlit.app/)
 
+* PowerBI in the Dashboard folder under powerbi
+
+(Tableau files in the Dashboard Folder)
 
 ## Dataset Content
 * The data set contains 13 columns of variables with 31511 rows. The variables are as follows
