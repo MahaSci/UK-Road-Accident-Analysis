@@ -17,7 +17,7 @@ The objectives above will be achieved by the following activities (summarised - 
 
 ## Links to Deployed Dashboards
 
-* [Tableau](https://public.tableau.com/app/profile/julian.colling/viz/Birmingham_Area_Accidents_Dashboard/RoadAccidentDashboard)
+* [Tableau](https://public.tableau.com/app/profile/julian.colling/viz/Birmingham_Accidents_Dashboard/RoadAccidentDashboard)
 
 * [Streamlit](https://uk-road-accident-analysis-dashboard.streamlit.app/)
 
